@@ -224,9 +224,8 @@
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=sshabbir-505&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshabbir-505&theme=tokyo-night" alt="Activity Graph"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sshabbir-505&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <!-- STABLE CONTRIBUTION CHART (NO GREEN ERROR BLOCK) -->
+  <img src="https://ghchart.rshah.org/0E75B6/sshabbir-505" alt="GitHub Contribution Chart" width="100%"/>
 </div>
 
 <!-- FOOTER -->
