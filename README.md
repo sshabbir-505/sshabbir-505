@@ -1,3 +1,13 @@
+<style>
+  .hover-zoom {
+    transition: transform 0.3s ease;
+    display: inline-block;
+  }
+  .hover-zoom:hover {
+    transform: scale(1.08);
+  }
+</style>
+
 <!-- BANNER -->
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Shaik Shabbir Ali Banner"/>
@@ -5,9 +15,15 @@
 
 <!-- CONTACT & BADGES -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sshabbir505ali@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="tel:+919948163786"><img src="https://img.shields.io/badge/Call-+91%209948163786-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call"/></a>
+  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sshabbir505ali@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/919948163786" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-+91%209948163786-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-0E75B6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://komarev.com/ghpvc/?username=sshabbir-505&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
@@ -47,15 +63,23 @@
 <table width="100%">
   <tr>
     <td width="100%" valign="top" style="padding: 10px;">
-      <h2 style="margin-top: 0;">👨‍💻 About Me</h2>
+      <h2 class="hover-zoom" style="margin-top: 0;">👨‍💻 About Me</h2>
       <p>🎯 <b>Senior Systems and Cloud Infrastructure Engineer</b> with <b>7+ years of experience</b> delivering 99.9% uptime on mission-critical, multi-platform environments (Windows Server, Active Directory, RHEL, Ubuntu, CentOS) for government healthcare and emergency-dispatch systems serving <b>50,000+ daily users</b>.</p>
       <p>Experienced across the full administration lifecycle: OS and software patch management, system health monitoring, backup and restore automation, failover orchestration, performance tuning, and LAN network security (firewalls, TCP/IP, DNS, DHCP).</p>
       <p>Skilled liaison between engineering teams and customer stakeholders on system upgrades, hardening, and rollout planning. Comfortable operating in 24x7 on-call support models driving reliability for platforms supporting 10,000+ daily transactions.</p>
       <p>☁️ Expertise in managing <b>AWS</b>, <b>Google Cloud Platform</b>, and high-availability hybrid Linux infrastructure.</p>
       <p>⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms.</p>
-      <h3>🧩 Core Expertise</h3>
+      
+      <h3 class="hover-zoom">🧩 Core Expertise</h3>
       <p>
         <code>Linux (RHEL/Ubuntu/CentOS)</code> <code>AWS</code> <code>GCP</code> <code>Docker</code> <code>Nginx</code> <code>Apache</code> <code>PHP-FPM Tuning</code> <code>Bash Scripting</code> <code>SAN/NAS</code> <code>LVM</code> <code>SSL Automation</code> <code>L2/L3 SRE Support</code>
+      </p>
+
+      <h3 class="hover-zoom">🗣️ Languages Spoken</h3>
+      <p>
+        <img src="https://img.shields.io/badge/English-Professional-0E75B6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Hindi-Native%20%2F%20Fluent-0E75B6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Telugu-Native%20%2F%20Fluent-0E75B6?style=flat-square"/>
       </p>
     </td>
   </tr>
@@ -101,7 +125,7 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="22%" align="center"><b>Operating Systems</b></td>
+      <td width="22%" align="center"><b class="hover-zoom">Operating Systems</b></td>
       <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
         <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
@@ -109,7 +133,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b>AWS Cloud</b></td>
+      <td align="center"><b class="hover-zoom">AWS Cloud</b></td>
       <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
@@ -118,14 +142,14 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b>GCP Cloud</b></td>
+      <td align="center"><b class="hover-zoom">GCP Cloud</b></td>
       <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/Google_Compute_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
         <img src="https://img.shields.io/badge/GCP_VPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td align="center"><b>Containers & Web</b></td>
+      <td align="center"><b class="hover-zoom">Containers & Web</b></td>
       <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -134,7 +158,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b>Storage & Network</b></td>
+      <td align="center"><b class="hover-zoom">Storage & Network</b></td>
       <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/SAN_/_NAS-007ACC?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/LVM_/_RAID-007ACC?style=for-the-badge"/>
@@ -143,7 +167,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b>Automation</b></td>
+      <td align="center"><b class="hover-zoom">Automation</b></td>
       <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
         <img src="https://img.shields.io/badge/Cron_Automation-4EAA25?style=for-the-badge"/>
@@ -160,7 +184,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🐧 Linux & Automation</h3>
+      <h3 class="hover-zoom">🐧 Linux & Automation</h3>
       <ul>
         <li><b><a href="https://github.com/sshabbir-505/linux-scripts">linux-scripts</a></b><br/><sub>Linux administration & troubleshooting scripts</sub></li>
         <li><b><a href="https://github.com/sshabbir-505/bash-automation">bash-automation</a></b><br/><sub>Backup, Rsync & log cleanup workflows</sub></li>
@@ -169,7 +193,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Web Stack & Cloud Ops</h3>
+      <h3 class="hover-zoom">🌐 Web Stack & Cloud Ops</h3>
       <ul>
         <li><b><a href="https://github.com/sshabbir-505/nginx-configurations">nginx-configurations</a></b><br/><sub>Production reverse proxy & security rules</sub></li>
         <li><b><a href="https://github.com/sshabbir-505/php-fpm-tuning">php-fpm-tuning</a></b><br/><sub>High-concurrency PHP optimization setups</sub></li>
@@ -184,7 +208,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📜 Learning Roadmap</h3>
+      <h3 class="hover-zoom">📜 Learning Roadmap</h3>
       <ul>
         <li>🟧 <b>AWS Solutions Architect – Associate</b> <i>(In Progress)</i></li>
         <li>🔴 <b>RHCSA</b> <i>(Planned)</i></li>
@@ -192,7 +216,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Key Enterprise Projects</h3>
+      <h3 class="hover-zoom">💼 Key Enterprise Projects</h3>
       <ul>
         <li>🏥 <b>Telangana NCD</b></li>
         <li>🏥 <b>AP Medical & Health Department</b></li>
@@ -217,16 +241,20 @@
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshabbir-505&theme=tokyo-night" alt="Activity Graph"/>
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sshabbir-505&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <!-- FIXED TROPHIES ENDPOINT -->
+  <img src="https://github-profile-trophies.vercel.app/?username=sshabbir-505&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies"/>
 </div>
 
-<!-- FOOTER -->
+<!-- FOOTER & CONNECT -->
 <div align="center" style="margin-top: 25px;">
   <a href="mailto:sshabbir505ali@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra">
+  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/919948163786" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
 
