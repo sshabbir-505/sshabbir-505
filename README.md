@@ -1,5 +1,24 @@
-<!-- MAIN LIGHT BLUE BACKGROUND WRAPPER -->
-<table width="100%" bgcolor="#EBF5FB" style="border-collapse: collapse; border: none; padding: 15px;">
+<!-- ANIMATED LIGHT BLUE BACKGROUND WRAPPER -->
+<div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1000 600" preserveAspectRatio="none" style="position: absolute; z-index: -1;">
+    <defs>
+      <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#e0f2fe">
+          <animate attributeName="stop-color" values="#e0f2fe; #bae6fd; #e0f2fe" dur="8s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" stop-color="#f0f9ff">
+          <animate attributeName="stop-color" values="#f0f9ff; #e0f2fe; #f0f9ff" dur="8s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#dbeafe">
+          <animate attributeName="stop-color" values="#dbeafe; #eff6ff; #dbeafe" dur="8s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#animatedGradient)" rx="10"/>
+  </svg>
+</div>
+
+<table width="100%" bgcolor="#f0f8ff" style="border-collapse: collapse; border: none; padding: 15px; border-radius: 10px;">
 <tr>
 <td>
 
@@ -206,7 +225,7 @@
 
 <!-- ANALYTICS -->
 <p align="center" style="margin-top: 15px; margin-bottom: 2px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=80&section=header&text=📊%20GitHub%20Analytics&fontSize=20&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=80&section=header&text=📊%20GitHub%20Analytics&fontSize=20&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
