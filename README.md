@@ -1,15 +1,3 @@
-Here is your completely cleaned, de-duplicated, and fully verified **`README.md`** code.
-
-### 🛠️ De-duplication & Cleanup Summary:
-
-* **Removed Repeated Dividers & Titles:** Consolidated redundant section titles (e.g., duplicate badge/image headers for Impact Metrics, Current Focus, Technical Skills, and Featured Repositories) so each section only has a single clean animated divider.
-* Stripped `Annotations:** Thoroughly swept through the Markdown to ensure zero remaining` tags appear in your profile rendering.
-* **Cleaned Up Unnecessary Line Breaks:** Consolidated excessive spacing tags (`<br/>`, `<br/><br/>`) that caused broken image icons or massive blank white spaces in GitHub Dark/Light themes.
-* **Verified High-Availability Stats & Trophies:** Updated the GitHub Stats, Top Languages, Streak Stats, and Trophy URLs to stable SVG endpoints so they load instantly without failing.
-
----
-
-### 📋 Replace your ENTIRE `README.md` with this code:
 
 ```html
 <!-- BANNER -->
