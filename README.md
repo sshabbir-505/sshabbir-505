@@ -1,4 +1,3 @@
-
 <!-- BANNER -->
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Shaik Shabbir Ali Banner"/>
@@ -44,21 +43,10 @@
   </table>
 </div>
 
-<!-- ABOUT ME SECTION -->
+<!-- ABOUT ME SECTION (WITHOUT PROFILE PICTURE) -->
 <table width="100%">
   <tr>
-    <td width="28%" align="center" valign="top">
-      <img src="assets/profile.png" width="150" height="150" style="border-radius: 50%; padding: 3px; background: linear-gradient(135deg, #0e75b6, #00c6ff); box-shadow: 0 0 12px rgba(14, 117, 182, 0.4);" alt="Profile Picture"/>
-      <h3 style="margin: 8px 0 2px 0;">Shaik Shabbir Ali</h3>
-      <sub style="font-size: 11px;">Senior Linux & Cloud Infrastructure Engineer</sub>
-      <br/><br/>
-      <div>
-        <img src="https://img.shields.io/badge/Linux-0E75B6?style=flat-square&logo=linux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Cloud-0E75B6?style=flat-square&logo=amazon&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Automation-0E75B6?style=flat-square&logo=gnu&logoColor=white"/>
-      </div>
-    </td>
-    <td width="72%" valign="top" style="padding-left: 15px;">
+    <td width="100%" valign="top" style="padding: 10px;">
       <h2 style="margin-top: 0;">👨‍💻 About Me</h2>
       <p>🎯 <b>Senior Linux Administrator & Cloud Infrastructure Engineer</b> with <b>7+ years</b> of experience supporting mission-critical production environments.</p>
       <p>☁️ Expertise in managing <b>AWS</b>, <b>Google Cloud Platform</b>, and high-availability hybrid Linux infrastructure.</p>
@@ -243,5 +231,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=120&section=footer" width="100%"/>
 
 <p align="center"><b>⭐ Thanks for visiting my profile! Building reliable Linux, Cloud, and Automation solutions every day. ⭐</b></p>
-
-```
