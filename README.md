@@ -51,24 +51,33 @@
 <br>
 
 <!-- ================================================================= -->
-<!-- ABOUT ME SECTION                                                  -->
+<!-- ABOUT ME SECTION (ANIMATED PROFILE PIC CONTAINER)                 -->
 <!-- ================================================================= -->
-<table>
+<table width="100%">
 <tr>
-<td width="30%" align="center" valign="top">
+<td width="32%" align="center" valign="middle">
+
   <br>
-  <img src="assets/profile.png" width="180" style="border-radius: 50%; border: 3px solid #0E75B6;" alt="Profile Picture"/>
-  <br><br>
-  <b>Shaik Shabbir Ali</b>
+  <!-- ANIMATED RING FRAME -->
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=round&color=0:0d1117,50:161b22,100:0e75b6&height=200&width=200&text=%20&animation=fadeIn" style="position: absolute; z-index: -1;" width="0" height="0" />
+    <img src="assets/profile.png" width="165" height="165" style="border-radius: 50%; padding: 4px; background: linear-gradient(135deg, #0e75b6, #00c6ff); box-shadow: 0 0 15px rgba(14, 117, 182, 0.5);" alt="Profile Picture"/>
+  </div>
+  
   <br>
+  <b>Shaik Shabbir Ali</b><br>
   <sub>Senior Linux & Cloud Infrastructure Engineer</sub>
   <br><br>
-  🐧 <b>Linux</b> &nbsp;•&nbsp; ☁️ <b>Cloud</b> &nbsp;•&nbsp; ⚙️ <b>Automation</b>
-  <br><br>
-  📍 <b>Hyderabad, India</b><br>
-  💼 <b>Notice:</b> 3 Months
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Linux-0E75B6?style=flat-square&logo=linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Cloud-0E75B6?style=flat-square&logo=amazon&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Automation-0E75B6?style=flat-square&logo=gnu&logoColor=white"/>
+  </p>
+
 </td>
-<td width="70%" valign="top">
+
+<td width="68%" valign="top">
 
 ## 👨‍💻 About Me
 
