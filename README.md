@@ -51,11 +51,11 @@
 <br/>
 
 <!-- ================================================================= -->
-<!-- ABOUT ME SECTION (BALANCED TABLE LAYOUT)                         -->
+<!-- ABOUT ME SECTION (BALANCED TABLE LAYOUT)                          -->
 <!-- ================================================================= -->
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="30%" align="center" valign="middle" style="border: none; padding: 10px;">
+<table width="100%">
+  <tr>
+    <td width="30%" align="center" valign="middle">
       <div align="center">
         <!-- ANIMATED GRADIENT RING AROUND PROFILE PIC -->
         <img src="assets/profile.png" width="160" height="160" style="border-radius: 50%; padding: 4px; background: linear-gradient(135deg, #0e75b6, #00c6ff, #2e8b57); box-shadow: 0 0 20px rgba(14, 117, 182, 0.6);" alt="Profile Picture"/>
@@ -70,19 +70,19 @@
         <img src="https://img.shields.io/badge/Automation-0E75B6?style=flat-square&logo=gnu&logoColor=white"/>
       </div>
     </td>
-    <td width="70%" valign="top" style="border: none; padding-left: 20px;">
+    <td width="70%" valign="top">
 
 ## 👨‍💻 About Me
 
-🎯 **Senior Linux Administrator & Cloud Infrastructure Engineer** with **7+ years** of experience supporting mission-critical production environments[cite: 1].
+🎯 **Senior Linux Administrator & Cloud Infrastructure Engineer** with **7+ years** of experience supporting mission-critical production environments.
 
-☁️ Expertise in managing **AWS**, **Google Cloud Platform**, and high-availability hybrid Linux infrastructure[cite: 1].
+☁️ Expertise in managing **AWS**, **Google Cloud Platform**, and high-availability hybrid Linux infrastructure.
 
-⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms[cite: 1].
+⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms.
 
 ### 🧩 Core Expertise
 
-`Linux (RHEL/Ubuntu/CentOS)` `AWS` `GCP` `Docker` `Nginx` `Apache` `PHP-FPM Tuning` `Bash Scripting` `SAN/NAS` `LVM` `SSL Automation` `L2/L3 SRE Support`[cite: 1]
+`Linux (RHEL/Ubuntu/CentOS)` `AWS` `GCP` `Docker` `Nginx` `Apache` `PHP-FPM Tuning` `Bash Scripting` `SAN/NAS` `LVM` `SSL Automation` `L2/L3 SRE Support`
 
     </td>
   </tr>
@@ -101,13 +101,13 @@
 
 | 🎯 40% | 📊 20% | 🚦 3x | ⏱️ RTO < 2 Hrs | 👥 50,000+ |
 |:---:|:---:|:---:|:---:|:---:|
-| Operational Workload Cut via Automation[cite: 1] | Cloud Cost Optimization[cite: 1] | Traffic Surge Handled with Stability[cite: 1] | Disaster Recovery Orchestration[cite: 1] | Daily Users Supported[cite: 1] |
+| Operational Workload Cut via Automation | Cloud Cost Optimization | Traffic Surge Handled with Stability | Disaster Recovery Orchestration | Daily Users Supported |
 
 <br/>
 
-<img src="https://img.shields.io/badge/Uptime%20Delivered-99.9%25-2E8B57?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime"/>[cite: 1]
+<img src="https://img.shields.io/badge/Uptime%20Delivered-99.9%25-2E8B57?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Experience-7%2B%20Years-0E75B6?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience"/>[cite: 1]
+<img src="https://img.shields.io/badge/Experience-7%2B%20Years-0E75B6?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience"/>
 
 </div>
 
@@ -145,12 +145,12 @@
 
 | Domain | Skill Badges |
 | :--- | :--- |
-| **Operating Systems** | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/>[cite: 1] |
-| **AWS Cloud** | <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Route53-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>[cite: 1] |
-| **GCP Cloud** | <img src="https://img.shields.io/badge/Google_Compute_Engine-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/GCP_VPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>[cite: 1] |
-| **Containers & Web** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=flat-square&logo=php&logoColor=white"/>[cite: 1] |
-| **Storage & Net** | <img src="https://img.shields.io/badge/SAN_/_NAS-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/LVM_/_RAID-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/DNS_/_SSL-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/UFW_/_IPTables-007ACC?style=flat-square"/>[cite: 1] |
-| **Automation** | <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Cron_Automation-4EAA25?style=flat-square"/>[cite: 1] |
+| **Operating Systems** | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/> |
+| **AWS Cloud** | <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Route53-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> |
+| **GCP Cloud** | <img src="https://img.shields.io/badge/Google_Compute_Engine-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/GCP_VPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> |
+| **Containers & Web** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=flat-square&logo=php&logoColor=white"/> |
+| **Storage & Net** | <img src="https://img.shields.io/badge/SAN_/_NAS-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/LVM_/_RAID-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/DNS_/_SSL-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/UFW_/_IPTables-007ACC?style=flat-square"/> |
+| **Automation** | <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Cron_Automation-4EAA25?style=flat-square"/> |
 
 </div>
 
@@ -163,9 +163,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=110&section=header&text=📌%20Featured%20Repositories&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
       <h3>🐧 Linux & Automation</h3>
       <ul>
         <li><b><a href="https://github.com/sshabbir-505/linux-scripts">linux-scripts</a></b><br><sub>Linux administration & troubleshooting scripts</sub></li>
@@ -174,7 +174,7 @@
         <li><b><a href="https://github.com/sshabbir-505/ssl-management">ssl-management</a></b><br><sub>Certbot SSL auto-renewal scripts</sub></li>
       </ul>
     </td>
-    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
+    <td width="50%" valign="top">
       <h3>🌐 Web Stack & Cloud Ops</h3>
       <ul>
         <li><b><a href="https://github.com/sshabbir-505/nginx-configurations">nginx-configurations</a></b><br><sub>Production reverse proxy & security rules</sub></li>
@@ -191,25 +191,25 @@
 <!-- ================================================================= -->
 <!-- CERTIFICATIONS & PROJECTS                                         -->
 <!-- ================================================================= -->
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
       <h3>📜 Learning Roadmap</h3>
       <ul>
-        <li>🟧 <b>AWS Solutions Architect – Associate</b> <i>(In Progress)</i>[cite: 1]</li>
+        <li>🟧 <b>AWS Solutions Architect – Associate</b> <i>(In Progress)</i></li>
         <li>🔴 <b>RHCSA</b> <i>(Planned)</i></li>
         <li>☸️ <b>Kubernetes</b> <i>(Learning)</i></li>
         <li>🤖 <b>Ansible</b> <i>(Learning)</i></li>
       </ul>
     </td>
-    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
+    <td width="50%" valign="top">
       <h3>💼 Key Enterprise Projects</h3>
       <ul>
-        <li>🏥 <b>Telangana NCD</b>[cite: 1]</li>
-        <li>🏥 <b>AP Medical & Health Department</b>[cite: 1]</li>
-        <li>🏥 <b>AIIMS Delhi</b>[cite: 1]</li>
-        <li>🚑 <b>AP108 Emergency Response</b>[cite: 1]</li>
-        <li>🏙️ <b>APCRDA</b>[cite: 1]</li>
+        <li>🏥 <b>Telangana NCD</b></li>
+        <li>🏥 <b>AP Medical & Health Department</b></li>
+        <li>🏥 <b>AIIMS Delhi</b></li>
+        <li>🚑 <b>AP108 Emergency Response</b></li>
+        <li>🏙️ <b>APCRDA</b></li>
       </ul>
     </td>
   </tr>
