@@ -43,6 +43,11 @@
   </table>
 </div>
 
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=80&section=header" width="100%"/>
+</p>
+
 <!-- ABOUT ME SECTION -->
 <table width="100%">
   <tr>
@@ -58,7 +63,7 @@
       </div>
     </td>
     <td width="72%" valign="top" style="padding-left: 15px;">
-      <h2 style="margin-top: 0;">👨💻 About Me</h2>
+      <h2 style="margin-top: 0;">👨‍💻 About Me</h2>
       <p>🎯 <b>Senior Linux Administrator & Cloud Infrastructure Engineer</b> with <b>7+ years</b> of experience supporting mission-critical production environments.</p>
       <p>☁️ Expertise in managing <b>AWS</b>, <b>Google Cloud Platform</b>, and high-availability hybrid Linux infrastructure.</p>
       <p>⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms.</p>
@@ -70,8 +75,13 @@
   </tr>
 </table>
 
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=80&section=header" width="100%"/>
+</p>
+
 <!-- IMPACT METRICS -->
-<div align="center" style="margin-top: 25px;">
+<div align="center">
   <img src="https://img.shields.io/badge/📈%20IMPACT%20%26%20DELIVERY%20METRICS-0E75B6?style=for-the-badge" alt="Impact Metrics Header"/>
 </div>
 
@@ -102,8 +112,13 @@
   <img src="https://img.shields.io/badge/Perf%20Tuning-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Perf"/>
 </div>
 
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=80&section=header" width="100%"/>
+</p>
+
 <!-- TECHNICAL SKILLS -->
-<div align="center" style="margin-top: 25px;">
+<div align="center">
   <img src="https://img.shields.io/badge/⚙️%20TECHNICAL%20SKILLS-0E75B6?style=for-the-badge" alt="Technical Skills Header"/>
 </div>
 
@@ -161,8 +176,13 @@
   </table>
 </div>
 
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=80&section=header" width="100%"/>
+</p>
+
 <!-- FEATURED REPOSITORIES -->
-<div align="center" style="margin-top: 25px;">
+<div align="center">
   <img src="https://img.shields.io/badge/📌%20FEATURED%20REPOSITORIES-0E75B6?style=for-the-badge" alt="Featured Repositories Header"/>
 </div>
 
@@ -213,20 +233,27 @@
   </tr>
 </table>
 
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=80&section=header" width="100%"/>
+</p>
+
 <!-- ANALYTICS -->
-<div align="center" style="margin-top: 25px;">
+<div align="center">
   <img src="https://img.shields.io/badge/📊%20GITHUB%20ANALYTICS-0E75B6?style=for-the-badge" alt="GitHub Analytics Header"/>
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sshabbir-505&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshabbir-505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <!-- FIXED STATS & TOP LANGS URLS -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sshabbir-505&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshabbir-505&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=sshabbir-505&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sshabbir-505&theme=dark&hide_border=true" alt="GitHub Streak"/>
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshabbir-505&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshabbir-505&theme=react-dark" alt="Activity Graph"/>
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sshabbir-505&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <!-- FIXED TROPHIES URL -->
+  <img src="https://github-profile-trophy.vercel.app/?username=sshabbir-505&theme=flat&no-frame=true&row=1&column=6" alt="Trophies"/>
 </div>
 
 <!-- FOOTER -->
@@ -239,5 +266,6 @@
   </a>
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=120&section=footer" width="100%"/>
+
 <p align="center"><b>⭐ Thanks for visiting my profile! Building reliable Linux, Cloud, and Automation solutions every day. ⭐</b></p>
