@@ -1,17 +1,17 @@
 <!-- ========================= -->
-<!--      PROFILE HEADER       -->
+<!--      CUSTOM BANNER        -->
 <!-- ========================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1F6FEB,100:00C6FF&text=Shabbir%20Ali%20Shaik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Linux%20Administrator%20|%20Cloud%20Infrastructure%20Engineer%20|%20SRE&descAlignY=60&descSize=18"/>
+  <img src="./assets/banner.png" width="100%" alt="Shabbir Ali Shaik Banner"/>
 </p>
 
 <h1 align="center">
-Hi 👋 I'm Shabbir Ali Shaik
+Hi 👋, I'm Shabbir Ali Shaik
 </h1>
 
 <h3 align="center">
-Senior Linux Administrator • Cloud Infrastructure Engineer • AWS • GCP • DevOps
+Senior Linux Administrator | Cloud Infrastructure Engineer | AWS | GCP | DevOps
 </h3>
 
 <p align="center">
@@ -24,21 +24,49 @@ Senior Linux Administrator • Cloud Infrastructure Engineer • AWS • GCP •
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sshabbir-505&label=Profile%20Views&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=sshabbir-505&style=for-the-badge&color=blue"/>
 
 </p>
 
 ---
 
+<table>
+<tr>
+
+<td width="35%" align="center">
+
+<img src="./assets/profile.png" width="220"/>
+
+</td>
+
+<td width="65%">
+
 # 👨‍💻 About Me
 
-💻 Senior Linux Administrator with **7+ Years** of production experience.
+🎯 Senior Linux Administrator with **7+ Years** of experience in managing enterprise Linux infrastructure.
 
-☁️ Experienced in **AWS**, **Google Cloud Platform**, and Hybrid Infrastructure.
+☁️ Experienced in **AWS**, **Google Cloud Platform**, and Hybrid Cloud Environments.
 
-🐧 Specialized in Linux Administration, Performance Tuning, Automation and Production Support.
+🐧 Strong background in:
 
-🚀 Passionate about Cloud Infrastructure, DevOps and Infrastructure Automation.
+- Linux Administration
+- Cloud Infrastructure
+- Docker
+- Bash Automation
+- Nginx
+- Apache
+- PHP-FPM
+- Performance Tuning
+- Production Support
+- Disaster Recovery
+- Infrastructure Automation
+
+🚀 Passionate about building secure, scalable and highly available infrastructure.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -47,15 +75,16 @@ Senior Linux Administrator • Cloud Infrastructure Engineer • AWS • GCP •
 - Kubernetes
 - Terraform
 - Docker
+- AWS Architecture
+- Google Cloud Platform
 - Infrastructure Automation
-- Cloud Security
-- High Availability
-- CI/CD
 - Linux Performance Tuning
+- CI/CD
+- Monitoring & Observability
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -65,36 +94,36 @@ Senior Linux Administrator • Cloud Infrastructure Engineer • AWS • GCP •
 
 ---
 
-# 💻 Skills
+# 💻 Technical Skills
 
 ### Operating Systems
 
 - Ubuntu
-- RHEL
+- Red Hat Enterprise Linux (RHEL)
 - CentOS
 - Rocky Linux
 
-### Cloud
+### Cloud Platforms
 
 - AWS EC2
-- IAM
 - VPC
+- IAM
 - Route53
 - ELB
 - Auto Scaling
-- S3
 - CloudWatch
+- S3
 
 - Google Cloud Platform
 - Compute Engine
-- IAM
 - VPC
+- IAM
 - Cloud Storage
 
-### Web Technologies
+### Web Servers
 
-- Apache
 - Nginx
+- Apache
 - PHP-FPM
 
 ### Containers
@@ -115,36 +144,16 @@ Senior Linux Administrator • Cloud Infrastructure Engineer • AWS • GCP •
 
 - DNS
 - VPN
-- SSL
+- SSL/TLS
 - TCP/IP
-- Firewall
 - IPTables
 - UFW
 
 ### Automation
 
 - Bash
-- Cron
 - Shell Scripting
-
----
-
-# 📂 Featured Repositories
-
-| Repository | Description |
-|------------|-------------|
-| linux-scripts | Linux Administration Scripts |
-| bash-automation | Backup & Automation Scripts |
-| nginx-configurations | Production Nginx Configurations |
-| apache-configurations | Apache Configurations |
-| php-fpm-tuning | PHP Performance Tuning |
-| docker-projects | Docker Projects |
-| aws-infrastructure | AWS Infrastructure |
-| gcp-infrastructure | Google Cloud Projects |
-| monitoring-scripts | Health Monitoring Scripts |
-| backup-automation | Disaster Recovery |
-| ssl-management | SSL Automation |
-| linux-interview-notes | Linux Interview Preparation |
+- Cron Jobs
 
 ---
 
@@ -170,7 +179,7 @@ Senior Linux Administrator • Cloud Infrastructure Engineer • AWS • GCP •
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -190,7 +199,26 @@ Senior Linux Administrator • Cloud Infrastructure Engineer • AWS • GCP •
 
 ---
 
-# 💼 Experience
+# 🚀 Featured Repositories
+
+| Repository | Description |
+|------------|-------------|
+| 🐧 linux-scripts | Linux administration and troubleshooting scripts |
+| 🤖 bash-automation | Backup, monitoring and automation scripts |
+| 🌐 nginx-configurations | Production-ready Nginx configurations |
+| ⚙ apache-configurations | Apache Virtual Host configurations |
+| 🚀 php-fpm-tuning | PHP-FPM optimization and tuning |
+| 🐳 docker-projects | Docker & Docker Compose examples |
+| ☁ aws-infrastructure | AWS Infrastructure projects |
+| ☁ gcp-infrastructure | Google Cloud Platform projects |
+| 📊 monitoring-scripts | Server monitoring scripts |
+| 💾 backup-automation | Backup & Disaster Recovery |
+| 🔒 ssl-management | SSL certificate automation |
+| 📘 linux-interview-notes | Linux interview preparation |
+
+---
+
+# 💼 Professional Experience
 
 ✔ Linux Server Administration
 
@@ -200,25 +228,27 @@ Senior Linux Administrator • Cloud Infrastructure Engineer • AWS • GCP •
 
 ✔ Docker
 
-✔ Nginx
-
 ✔ Apache
+
+✔ Nginx
 
 ✔ PHP-FPM
 
-✔ Performance Tuning
+✔ Storage Administration
 
-✔ SSL Management
+✔ Performance Tuning
 
 ✔ Disaster Recovery
 
-✔ Production Support
+✔ SSL Management
 
 ✔ Infrastructure Automation
 
+✔ Production Support (L2/L3)
+
 ---
 
-# 📜 Certifications
+# 📜 Certifications & Learning
 
 - AWS Solutions Architect Associate *(Preparing)*
 - RHCSA *(Planned)*
@@ -226,7 +256,7 @@ Senior Linux Administrator • Cloud Infrastructure Engineer • AWS • GCP •
 
 ---
 
-# 🚀 Projects
+# 🏥 Projects
 
 - Telangana NCD
 - AP Medical & Health Department
@@ -236,22 +266,22 @@ Senior Linux Administrator • Cloud Infrastructure Engineer • AWS • GCP •
 
 ---
 
-# 📫 Contact Me
+# 📫 Connect With Me
 
 📧 **Email**
 
-sshabbir505ali@gmail.com
+**sshabbir505ali@gmail.com**
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/shabbir-ali-cloud-infra
+**https://www.linkedin.com/in/shabbir-ali-cloud-infra**
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile.
 
-If you like my work, don't forget to ⭐ my repositories.
+I'm always interested in collaborating on Linux, Cloud Infrastructure, DevOps, Automation and Open Source projects.
 
 </p>
