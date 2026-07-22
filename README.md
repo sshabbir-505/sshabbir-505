@@ -1,208 +1,151 @@
-<!-- ===================== CUSTOM BANNER ===================== -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Shaik Shabbir Ali — Cloud Infrastructure Engineer"/>
 </p>
 
-<!-- ===================== SOCIAL / CONTACT BADGES ===================== -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sshabbir505ali@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="tel:+919948163786">
-    <img src="https://img.shields.io/badge/Call-+91%209948163786-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-0E75B6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=sshabbir-505&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS"/>
-</p>
+<h1 align="center" style="font-family: Georgia, serif; letter-spacing: 1px;">SHAIK SHABBIR ALI</h1>
+<p align="center"><i>Senior Linux Administrator &nbsp;|&nbsp; Cloud Infrastructure Engineer &nbsp;|&nbsp; SRE</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%23OPEN%20TO%20WORK-2E8B57?style=for-the-badge"/>
+  📍 Hyderabad, India &nbsp; · &nbsp;
+  ✆ +91 9948163786 &nbsp; · &nbsp;
+  ✉ <a href="mailto:sshabbir505ali@gmail.com">sshabbir505ali@gmail.com</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra">LinkedIn</a>
 </p>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=850&lines=Senior+Linux+Administrator;Cloud+Infrastructure+Engineer;AWS+%7C+GCP+%7C+Docker+%7C+Linux;Automation+%7C+Bash+%7C+Nginx+%7C+PHP-FPM;Always+Learning+%F0%9F%9A%80"/>
-</p>
-
-<!-- ===================== FLOATING TECH ORBIT ===================== -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,aws,gcp,docker,kubernetes,terraform,bash,python,git,github,nginx,vscode&perline=14" alt="tech stack"/>
-</p>
+<p align="center"><sub>Open to new opportunities</sub></p>
 
 <p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3000&pause=1200&color=2C3E50&center=true&vCenter=true&width=750&lines=Building+reliable%2C+secure+infrastructure+since+2017;AWS+%C2%B7+GCP+%C2%B7+Linux+%C2%B7+Automation;Designing+systems+that+don't+go+down"/>
 </p>
 
----
+<p align="center">・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</p>
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ===================== ABOUT ===================== -->
 <table>
 <tr>
-<td width="34%" align="center">
-  <img src="assets/profile.png" width="220" style="border-radius: 50%;"/>
-  <br><br>
-  <b>🐧 Linux &nbsp;•&nbsp; ☁️ Cloud &nbsp;•&nbsp; ⚙️ Automation</b>
-  <br>
-  <sub>AWS • GCP • Docker</sub>
+<td width="30%" align="center" valign="top">
+  <img src="assets/profile.png" width="200" style="border-radius: 8px;"/>
 </td>
-<td width="66%">
+<td width="70%" valign="top">
 
-## 👨‍💻 About Me
+### About
 
-🎯 Senior Linux Administrator with **7+ years** of experience supporting production infrastructure.
+Senior Linux Administrator with **seven years** of experience designing, securing, and operating production infrastructure across healthcare and enterprise environments.
 
-☁️ Hands-on experience with **AWS**, **Google Cloud Platform**, and hybrid Linux environments.
+Hands-on background across **AWS**, **Google Cloud Platform**, and hybrid Linux systems — with a focus on automation, reliability, and disaster recovery that holds up under real-world load.
 
-⚡ Experienced in building reliable, secure, and highly available infrastructure for healthcare and enterprise workloads.
-
-### 🧩 Core Skills
-`Linux Administration` `AWS` `GCP` `Docker` `Nginx` `Apache` `PHP-FPM`
-`Bash Scripting` `LVM` `SAN/NAS` `SSL` `Performance Tuning` `Disaster Recovery` `Production Support (L2/L3)`
+**Core competencies**
+Linux Administration &nbsp;·&nbsp; AWS &nbsp;·&nbsp; GCP &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Nginx &nbsp;·&nbsp; Apache &nbsp;·&nbsp; PHP-FPM &nbsp;·&nbsp; Bash Scripting &nbsp;·&nbsp; LVM &nbsp;·&nbsp; SAN/NAS &nbsp;·&nbsp; SSL &nbsp;·&nbsp; Performance Tuning &nbsp;·&nbsp; Disaster Recovery &nbsp;·&nbsp; Production Support (L2/L3)
 
 </td>
 </tr>
 </table>
 
----
+<p align="center">・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</p>
 
-## 📈 Impact & Delivery Metrics
+### Impact at a Glance
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="20%">
 
-| 🎯 40% | 📊 20% | 🚦 3x | ⏱️ RTO < 2 Hrs | 👥 50,000+ |
-|:---:|:---:|:---:|:---:|:---:|
-| Automation Improvement | Cloud Cost Optimization | Traffic Surge Handled with Stability | Disaster Recovery Orchestration | Users Supported Daily |
+**40%**
+<br><sub>Automation Improvement</sub>
 
-</p>
+</td>
+<td align="center" width="20%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Uptime%20Delivered-99.9%25-2E8B57?style=for-the-badge&logo=statuspage&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-0E75B6?style=for-the-badge&logo=clockify&logoColor=white"/>
-</p>
+**20%**
+<br><sub>Cloud Cost Optimization</sub>
 
----
+</td>
+<td align="center" width="20%">
 
-## 🚀 Current Focus
+**3×**
+<br><sub>Traffic Surge Stability</sub>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-In%20Progress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-In%20Progress-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IaC-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-Learning-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud%20Security-Focus-005571?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Observability-Focus-E6522C?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perf%20Tuning-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+</td>
+<td align="center" width="20%">
 
----
+**&lt; 2 hrs**
+<br><sub>Disaster Recovery Time</sub>
 
-## ⚙️ Technologies
+</td>
+<td align="center" width="20%">
 
-| Category | Skills |
+**50,000+**
+<br><sub>Users Supported Daily</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>99.9% uptime delivered &nbsp;·&nbsp; 7+ years of production experience</sub></p>
+
+<p align="center">・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</p>
+
+### Technologies
+
+| | |
 |---|---|
-| 🖥️ **Operating Systems** | Ubuntu, RHEL, CentOS, Rocky Linux |
-| ☁️ **AWS** | EC2, IAM, VPC, Route53, ELB, Auto Scaling, CloudWatch, S3 |
-| ☁️ **GCP** | Compute Engine, IAM, VPC, Cloud Storage |
-| 🐳 **Containers** | Docker, Docker Compose |
-| 🌐 **Web Servers** | Apache, Nginx, PHP-FPM |
-| 💾 **Storage** | SAN, NAS, LVM, RAID, NFS |
-| 🔐 **Networking** | DNS, SSL/TLS, VPN, IPTables, UFW |
-| 🤖 **Automation** | Bash, Cron, Shell Scripting |
-
----
-
-## 📊 GitHub Analytics
+| **Operating Systems** | Ubuntu, RHEL, CentOS, Rocky Linux |
+| **AWS** | EC2, IAM, VPC, Route53, ELB, Auto Scaling, CloudWatch, S3 |
+| **GCP** | Compute Engine, IAM, VPC, Cloud Storage |
+| **Containers** | Docker, Docker Compose |
+| **Web Servers** | Apache, Nginx, PHP-FPM |
+| **Storage** | SAN, NAS, LVM, RAID, NFS |
+| **Networking** | DNS, SSL/TLS, VPN, IPTables, UFW |
+| **Automation** | Bash, Cron, Shell Scripting |
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sshabbir-505&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshabbir-505&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,aws,gcp,docker,kubernetes,terraform,bash,git,github,nginx&perline=12" alt="tech stack"/>
 </p>
 
-## 🔥 GitHub Streak
+<p align="center">・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</p>
+
+### Currently Learning
+
+Kubernetes &nbsp;·&nbsp; Terraform &nbsp;·&nbsp; Infrastructure as Code &nbsp;·&nbsp; CI/CD &nbsp;·&nbsp; Cloud Security &nbsp;·&nbsp; Monitoring & Observability &nbsp;·&nbsp; Linux Performance Tuning
+
+**Roadmap:** AWS Solutions Architect – Associate &nbsp;·&nbsp; RHCSA &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; Terraform &nbsp;·&nbsp; Ansible
+
+<p align="center">・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</p>
+
+### GitHub Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sshabbir-505&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sshabbir-505&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshabbir-505&layout=compact&theme=graywhite&hide_border=true"/>
 </p>
-
-## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshabbir-505&theme=tokyo-night"/>
+  <img src="https://streak-stats.demolab.com?user=sshabbir-505&theme=default&hide_border=true&background=FFFFFF&stroke=2C3E50&ring=2C3E50&fire=2C3E50&currStreakLabel=2C3E50"/>
 </p>
 
-<!-- ===================== ANIMATED CONTRIBUTION SNAKE ===================== -->
-## 🐍 Contribution Snake
+<p align="center">・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sshabbir-505/sshabbir-505/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-> ℹ️ To activate the snake animation above, add the **snk workflow** (see setup note at the bottom of this file).
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sshabbir-505&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 📌 Featured Work
+### Featured Work
 
 | Repository | Description |
 |---|---|
-| 🐧 Linux Scripts | Linux administration & troubleshooting |
-| 🤖 Bash Automation | Backup & automation scripts |
-| 🌐 Nginx Configurations | Production Nginx configurations |
-| ⚙️ Apache Configurations | Virtual host examples |
-| 🚀 PHP-FPM Tuning | PHP optimization & tuning |
-| 🐳 Docker Projects | Docker & Compose examples |
-| ☁️ AWS Infrastructure | Cloud deployment examples |
-| ☁️ GCP Infrastructure | Google Cloud examples |
-| 📊 Monitoring Scripts | Server health monitoring |
-| 🔐 SSL Management | Certificate automation |
+| Linux Scripts | Linux administration & troubleshooting |
+| Bash Automation | Backup & automation scripts |
+| Nginx Configurations | Production Nginx configurations |
+| Apache Configurations | Virtual host examples |
+| PHP-FPM Tuning | PHP optimization & tuning |
+| Docker Projects | Docker & Compose examples |
+| AWS Infrastructure | Cloud deployment examples |
+| GCP Infrastructure | Google Cloud examples |
+| Monitoring Scripts | Server health monitoring |
+| SSL Management | Certificate automation |
 
----
+### Selected Projects
 
-## 📜 Learning Roadmap
+Telangana NCD &nbsp;·&nbsp; AP Medical & Health Department &nbsp;·&nbsp; AIIMS Delhi &nbsp;·&nbsp; AP108 Emergency Response &nbsp;·&nbsp; APCRDA
 
-- [ ] AWS Solutions Architect – Associate
-- [ ] RHCSA
-- [ ] Kubernetes
-- [ ] Terraform
-- [ ] Ansible
-
----
-
-## 💼 Projects
-
-- 🏥 Telangana NCD
-- 🏥 AP Medical & Health Department
-- 🏥 AIIMS Delhi
-- 🚑 AP108 Emergency Response
-- 🏙️ APCRDA
-
----
-
-## 📫 Connect With Me
+<p align="center">・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</p>
 
 <p align="center">
-  <a href="mailto:sshabbir505ali@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <sub>Thank you for visiting. Building reliable Linux, cloud, and automation solutions — one system at a time.</sub>
 </p>
-
-<!-- ===================== ANIMATED WAVE FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=150&section=footer"/>
-
-<p align="center"><b>⭐ Thanks for visiting my profile! Building reliable Linux, Cloud, and Automation solutions every day. ⭐</b></p>
