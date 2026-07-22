@@ -101,7 +101,7 @@ reliability for platforms supporting 10,000+ daily transactions. </p>
 
 <!-- TECHNICAL SKILLS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=⚙️%20Technical%20Skills&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=⚙️%20Technical%20Skills&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="80%" />
 </p>
 
 <div align="center">
@@ -160,8 +160,7 @@ reliability for platforms supporting 10,000+ daily transactions. </p>
 
 <!-- FEATURED REPOSITORIES -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=📌%20Featured%20Repositories&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=⚙️%20Technical%20Skills&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="80%" /></p>
 
 <table width="100%">
   <tr>
@@ -212,8 +211,7 @@ reliability for platforms supporting 10,000+ daily transactions. </p>
 
 <!-- ANALYTICS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=📊%20GitHub%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=⚙️%20Technical%20Skills&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="80%" /></p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sshabbir-505&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
