@@ -45,7 +45,7 @@
 <!-- TECH ORBIT ICON ROW                                               -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,aws,gcp,docker,kubernetes,ansible,bash,python,git,github,nginx,vscode&perline=14" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,aws,gcp,docker,kubernetes,ansible,bash,git,github,nginx,vscode&perline=13" alt="tech stack"/>
 </p>
 
 <br>
@@ -72,15 +72,15 @@
 
 ## 👨‍💻 About Me
 
-🎯 **Senior Linux Administrator & Cloud Infrastructure Engineer** with **7+ years** of experience supporting mission-critical production environments[cite: 1].
+🎯 **Senior Linux Administrator & Cloud Infrastructure Engineer** with **7+ years** of experience supporting mission-critical production environments.
 
-☁️ Expertise in managing **AWS**, **Google Cloud Platform**, and high-availability hybrid Linux infrastructure[cite: 1].
+☁️ Expertise in managing **AWS**, **Google Cloud Platform**, and high-availability hybrid Linux infrastructure.
 
-⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms[cite: 1].
+⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms.
 
 ### 🧩 Core Expertise
 
-`Linux (RHEL/Ubuntu/CentOS)` `AWS` `GCP` `Docker` `Nginx` `Apache` `PHP-FPM Tuning` `Bash Scripting` `SAN/NAS` `LVM` `SSL Automation` `L2/L3 SRE Support`[cite: 1]
+`Linux (RHEL/Ubuntu/CentOS)` `AWS` `GCP` `Docker` `Nginx` `Apache` `PHP-FPM Tuning` `Bash Scripting` `SAN/NAS` `LVM` `SSL Automation` `L2/L3 SRE Support`
 
 </td>
 </tr>
@@ -92,20 +92,20 @@
 <!-- IMPACT & METRICS SECTION                                          -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=100&section=header&text=📈%20Impact%20%26%20Delivery%20Metrics&fontSize=22&fontColor=ffffff&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=110&section=header&text=📈%20Impact%20%26%20Delivery%20Metrics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
 
 | 🎯 40% | 📊 20% | 🚦 3x | ⏱️ RTO < 2 Hrs | 👥 50,000+ |
 |:---:|:---:|:---:|:---:|:---:|
-| Operational Workload Cut via Automation[cite: 1] | Cloud Cost Optimization[cite: 1] | Traffic Surge Handled with Stability[cite: 1] | Disaster Recovery Orchestration[cite: 1] | Daily Users Supported[cite: 1] |
+| Operational Workload Cut via Automation | Cloud Cost Optimization | Traffic Surge Handled with Stability | Disaster Recovery Orchestration | Daily Users Supported |
 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Uptime%20Delivered-99.9%25-2E8B57?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime"/>[cite: 1]
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-0E75B6?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience"/>[cite: 1]
+  <img src="https://img.shields.io/badge/Uptime%20Delivered-99.9%25-2E8B57?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime"/>
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-0E75B6?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience"/>
 </p>
 
 <br>
@@ -114,7 +114,7 @@
 <!-- CURRENT FOCUS BADGES                                              -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=100&section=header&text=🚀%20Current%20Focus%20%26%20Learning&fontSize=22&fontColor=ffffff&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=110&section=header&text=🚀%20Current%20Focus%20%26%20Learning&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -131,19 +131,19 @@
 <!-- TECHNICAL SKILLS MATRIX                                           -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=100&section=header&text=⚙️%20Technical%20Skills&fontSize=22&fontColor=ffffff&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=110&section=header&text=⚙️%20Technical%20Skills&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
 
-| Domain | Animated Skill Badges |
+| Domain | Skill Badges |
 | :--- | :--- |
-| **Operating Systems** | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/> <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white"/> |
+| **Operating Systems** | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/> |
 | **AWS Cloud** | <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Route53-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> |
 | **GCP Cloud** | <img src="https://img.shields.io/badge/Google_Compute_Engine-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/GCP_VPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> |
 | **Containers & Web** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=flat-square&logo=php&logoColor=white"/> |
 | **Storage & Net** | <img src="https://img.shields.io/badge/SAN_/_NAS-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/LVM_/_RAID-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/DNS_/_SSL-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/UFW_/_IPTables-007ACC?style=flat-square"/> |
-| **Automation** | <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Cron_Automation-4EAA25?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> |
+| **Automation** | <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Cron_Automation-4EAA25?style=flat-square"/> |
 
 </div>
 
@@ -153,7 +153,7 @@
 <!-- FEATURED REPOSITORIES                                             -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=100&section=header&text=📌%20Featured%20Repositories&fontSize=22&fontColor=ffffff&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=110&section=header&text=📌%20Featured%20Repositories&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <table width="100%">
@@ -189,7 +189,7 @@
     <td width="50%" valign="top">
       <h3>📜 Learning Roadmap</h3>
       <ul>
-        <li>🟧 <b>AWS Solutions Architect – Associate</b> <i>(In Progress)</i>[cite: 1]</li>
+        <li>🟧 <b>AWS Solutions Architect – Associate</b> <i>(In Progress)</i></li>
         <li>🔴 <b>RHCSA</b> <i>(Planned)</i></li>
         <li>☸️ <b>Kubernetes</b> <i>(Learning)</i></li>
         <li>🤖 <b>Ansible</b> <i>(Learning)</i></li>
@@ -198,11 +198,11 @@
     <td width="50%" valign="top">
       <h3>💼 Key Enterprise Projects</h3>
       <ul>
-        <li>🏥 <b>Telangana NCD</b>[cite: 1]</li>
-        <li>🏥 <b>AP Medical & Health Department</b>[cite: 1]</li>
-        <li>🏥 <b>AIIMS Delhi</b>[cite: 1]</li>
-        <li>🚑 <b>AP108 Emergency Response</b>[cite: 1]</li>
-        <li>🏙️ <b>APCRDA</b>[cite: 1]</li>
+        <li>🏥 <b>Telangana NCD</b></li>
+        <li>🏥 <b>AP Medical & Health Department</b></li>
+        <li>🏥 <b>AIIMS Delhi</b></li>
+        <li>🚑 <b>AP108 Emergency Response</b></li>
+        <li>🏙️ <b>APCRDA</b></li>
       </ul>
     </td>
   </tr>
@@ -214,7 +214,7 @@
 <!-- GITHUB STATS & ANALYTICS                                          -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=100&section=header&text=📊%20GitHub%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=110&section=header&text=📊%20GitHub%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
