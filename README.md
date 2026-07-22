@@ -41,7 +41,9 @@
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,aws,gcp,docker,kubernetes,ansible,bash,python,git,github,nginx,vscode&perline=14" alt="tech stack"/>
 </p>
 
-
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Animated Line">
+</p>
 
 ---
 
@@ -67,15 +69,15 @@
 
 ## 👨‍💻 About Me
 
-🎯 **Senior Linux Administrator & Cloud Infrastructure Engineer** with **7+ years** of experience supporting mission-critical production environments[cite: 1].
+🎯 **Senior Linux Administrator & Cloud Infrastructure Engineer** with **7+ years** of experience supporting mission-critical production environments.
 
-☁️ Expertise in managing **AWS**, **Google Cloud Platform**, and high-availability hybrid Linux infrastructure[cite: 1].
+☁️ Expertise in managing **AWS**, **Google Cloud Platform**, and high-availability hybrid Linux infrastructure.
 
-⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms[cite: 1].
+⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms.
 
 ### 🧩 Core Expertise
 
-`Linux (RHEL/Ubuntu/CentOS)` `AWS` `GCP` `Docker` `Nginx` `Apache` `PHP-FPM Tuning` `Bash Scripting` `SAN/NAS` `LVM` `SSL Automation` `L2/L3 SRE Support`[cite: 1]
+`Linux (RHEL/Ubuntu/CentOS)` `AWS` `GCP` `Docker` `Nginx` `Apache` `PHP-FPM Tuning` `Bash Scripting` `SAN/NAS` `LVM` `SSL Automation` `L2/L3 SRE Support`
 
 </td>
 </tr>
@@ -94,13 +96,13 @@
 
 | 🎯 40% | 📊 20% | 🚦 3x | ⏱️ RTO < 2 Hrs | 👥 50,000+ |
 |:---:|:---:|:---:|:---:|:---:|
-| Operational Workload Cut via Automation[cite: 1] | Cloud Cost Optimization[cite: 1] | Traffic Surge Handled with Stability[cite: 1] | Disaster Recovery Orchestration[cite: 1] | Daily Users Supported[cite: 1] |
+| Operational Workload Cut via Automation | Cloud Cost Optimization | Traffic Surge Handled with Stability | Disaster Recovery Orchestration | Daily Users Supported |
 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Uptime%20Delivered-99.9%25-2E8B57?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime"/>[cite: 1]
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-0E75B6?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience"/>[cite: 1]
+  <img src="https://img.shields.io/badge/Uptime%20Delivered-99.9%25-2E8B57?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime"/>
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-0E75B6?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience"/>
 </p>
 
 ---
@@ -131,14 +133,14 @@
 
 | Category | Skills |
 |---|---|
-| 🖥️ **Operating Systems** | Ubuntu, RHEL, CentOS, Rocky Linux[cite: 1] |
-| ☁️ **AWS** | EC2, IAM, VPC, Route53, ELB, Auto Scaling, CloudWatch, S3[cite: 1] |
-| ☁️ **GCP** | Compute Engine, IAM, VPC, Cloud Storage[cite: 1] |
+| 🖥️ **Operating Systems** | Ubuntu, RHEL, CentOS, Rocky Linux |
+| ☁️ **AWS** | EC2, IAM, VPC, Route53, ELB, Auto Scaling, CloudWatch, S3 |
+| ☁️ **GCP** | Compute Engine, IAM, VPC, Cloud Storage |
 | 🐳 **Containers** | Docker, Docker Compose |
-| 🌐 **Web Servers** | Apache, Nginx, PHP-FPM[cite: 1] |
-| 💾 **Storage** | SAN, NAS, LVM, RAID, NFS[cite: 1] |
-| 🔐 **Networking** | DNS, SSL/TLS, VPN, IPTables, UFW[cite: 1] |
-| 🤖 **Automation** | Bash, Cron, Shell Scripting[cite: 1] |
+| 🌐 **Web Servers** | Apache, Nginx, PHP-FPM |
+| 💾 **Storage** | SAN, NAS, LVM, RAID, NFS |
+| 🔐 **Networking** | DNS, SSL/TLS, VPN, IPTables, UFW |
+| 🤖 **Automation** | Bash, Cron, Shell Scripting |
 
 ---
 
@@ -151,16 +153,16 @@
 
 | Repository | Description |
 |---|---|
-| 🐧 Linux Scripts | Linux administration & troubleshooting |
-| 🤖 Bash Automation | Backup & automation scripts |
-| 🌐 Nginx Configurations | Production Nginx configurations |
-| ⚙️ Apache Configurations | Virtual host examples |
-| 🚀 PHP-FPM Tuning | PHP optimization & tuning |
-| 🐳 Docker Projects | Docker & Compose examples |
-| ☁️ AWS Infrastructure | Cloud deployment examples |
-| ☁️ GCP Infrastructure | Google Cloud examples |
-| 📊 Monitoring Scripts | Server health monitoring |
-| 🔐 SSL Management | Certificate automation |
+| 🐧 **Linux Scripts** | Linux administration & troubleshooting |
+| 🤖 **Bash Automation** | Backup & automation scripts |
+| 🌐 **Nginx Configurations** | Production Nginx configurations |
+| ⚙️ **Apache Configurations** | Virtual host examples |
+| 🚀 **PHP-FPM Tuning** | PHP optimization & tuning |
+| 🐳 **Docker Projects** | Docker & Compose examples |
+| ☁️ **AWS Infrastructure** | Cloud deployment examples |
+| ☁️ **GCP Infrastructure** | Google Cloud examples |
+| 📊 **Monitoring Scripts** | Server health monitoring |
+| 🔐 **SSL Management** | Certificate automation |
 
 ---
 
@@ -172,20 +174,20 @@
     <td width="50%" valign="top">
       <h3>📜 Learning Roadmap</h3>
       <ul>
-        <li>🟧 <b>AWS Solutions Architect – Associate</b> <i>(In Progress)</i>[cite: 1]</li>
+        <li>🟧 <b>AWS Solutions Architect – Associate</b> <i>(In Progress)</i></li>
         <li>🔴 <b>RHCSA</b> <i>(Planned)</i></li>
         <li>☸️ <b>Kubernetes</b> <i>(Learning)</i></li>
         <li>🤖 <b>Ansible</b> <i>(Learning)</i></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Projects</h3>
+      <h3>💼 Enterprise Projects</h3>
       <ul>
-        <li>🏥 <b>Telangana NCD</b>[cite: 1]</li>
-        <li>🏥 <b>AP Medical & Health Department</b>[cite: 1]</li>
-        <li>🏥 <b>AIIMS Delhi</b>[cite: 1]</li>
-        <li>🚑 <b>AP108 Emergency Response</b>[cite: 1]</li>
-        <li>🏙️ <b>APCRDA</b>[cite: 1]</li>
+        <li>🏥 <b>Telangana NCD</b></li>
+        <li>🏥 <b>AP Medical & Health Department</b></li>
+        <li>🏥 <b>AIIMS Delhi</b></li>
+        <li>🚑 <b>AP108 Emergency Response</b></li>
+        <li>🏙️ <b>APCRDA</b></li>
       </ul>
     </td>
   </tr>
