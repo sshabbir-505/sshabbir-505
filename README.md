@@ -1,13 +1,3 @@
-<style>
-  .hover-zoom {
-    transition: transform 0.3s ease;
-    display: inline-block;
-  }
-  .hover-zoom:hover {
-    transform: scale(1.08);
-  }
-</style>
-
 <!-- BANNER -->
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Shaik Shabbir Ali Banner"/>
@@ -58,30 +48,31 @@
 </div>
 
 <!-- ABOUT ME SECTION -->
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top" style="padding: 10px;">
-      <h2 class="hover-zoom" style="margin-top: 0;">👨‍💻 About Me</h2>
-      <p>🎯 <b>Senior Systems and Cloud Infrastructure Engineer</b> with <b>7+ years of experience</b> delivering 99.9% uptime on mission-critical, multi-platform environments (Windows Server, Active Directory, RHEL, Ubuntu, CentOS) for government healthcare and emergency-dispatch systems serving <b>50,000+ daily users</b>.</p>
-      <p>Experienced across the full administration lifecycle: OS and software patch management, system health monitoring, backup and restore automation, failover orchestration, performance tuning, and LAN network security (firewalls, TCP/IP, DNS, DHCP).</p>
-      <p>Skilled liaison between engineering teams and customer stakeholders on system upgrades, hardening, and rollout planning. Comfortable operating in 24x7 on-call support models driving reliability for platforms supporting 10,000+ daily transactions.</p>
-      <p>☁️ Expertise in managing <b>AWS</b>, <b>Google Cloud Platform</b>, and high-availability hybrid Linux infrastructure.</p>
-      <p>⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms.</p>
-      
-      <h3 class="hover-zoom">🧩 Core Expertise</h3>
-      <p>
-        <code>Linux (RHEL/Ubuntu/CentOS)</code> <code>AWS</code> <code>GCP</code> <code>Docker</code> <code>Nginx</code> <code>Apache</code> <code>PHP-FPM Tuning</code> <code>Bash Scripting</code> <code>SAN/NAS</code> <code>LVM</code> <code>SSL Automation</code> <code>L2/L3 SRE Support</code>
-      </p>
+<div style="padding: 10px;">
+  <h2>👨‍💻 About Me</h2>
+  <p>🎯 <b>Senior Systems and Cloud Infrastructure Engineer</b> with <b>7+ years of experience</b> delivering 99.9% uptime on mission-critical, multi-platform environments (Windows Server, Active Directory, RHEL, Ubuntu, CentOS) for government healthcare and emergency-dispatch systems serving <b>50,000+ daily users</b>.</p>
+  <p>Experienced across the full administration lifecycle: OS and software patch management, system health monitoring, backup and restore automation, failover orchestration, performance tuning, and LAN network security (firewalls, TCP/IP, DNS, DHCP).</p>
+  <p>Skilled liaison between engineering teams and customer stakeholders on system upgrades, hardening, and rollout planning. Comfortable operating in 24x7 on-call support models driving reliability for platforms supporting 10,000+ daily transactions.</p>
+  <p>☁️ Expertise in managing <b>AWS</b>, <b>Google Cloud Platform</b>, and high-availability hybrid Linux infrastructure.</p>
+  <p>⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms.</p>
+  
+  <h3>🧩 Core Expertise</h3>
+  <p>
+    <code>Linux (RHEL/Ubuntu/CentOS)</code> <code>AWS</code> <code>GCP</code> <code>Docker</code> <code>Nginx</code> <code>Apache</code> <code>PHP-FPM Tuning</code> <code>Bash Scripting</code> <code>SAN/NAS</code> <code>LVM</code> <code>SSL Automation</code> <code>L2/L3 SRE Support</code>
+  </p>
 
-      <h3 class="hover-zoom">🗣️ Languages Spoken</h3>
-      <p>
-        <img src="https://img.shields.io/badge/English-Professional-0E75B6?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Hindi-Native%20%2F%20Fluent-0E75B6?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Telugu-Native%20%2F%20Fluent-0E75B6?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+  <h3>🗣️ Languages Spoken</h3>
+  <p>
+    <img src="https://img.shields.io/badge/English-Professional-0E75B6?style=for-the-badge" alt="English"/>
+    <img src="https://img.shields.io/badge/Hindi-Native%20%2F%20Fluent-0E75B6?style=for-the-badge" alt="Hindi"/>
+    <img src="https://img.shields.io/badge/Telugu-Native%20%2F%20Fluent-0E75B6?style=for-the-badge" alt="Telugu"/>
+  </p>
+  <ul>
+    <li>🇬🇧 <b>English</b> – Professional / Full Working Proficiency</li>
+    <li>🇮🇳 <b>Hindi</b> – Native / Fluent</li>
+    <li>🇮🇳 <b>Telugu</b> – Native / Fluent</li>
+  </ul>
+</div>
 
 <!-- IMPACT METRICS -->
 <p align="center">
@@ -123,7 +114,7 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="22%" align="center"><b class="hover-zoom">Operating Systems</b></td>
+      <td width="22%" align="center"><b>Operating Systems</b></td>
       <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
         <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
@@ -131,7 +122,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b class="hover-zoom">AWS Cloud</b></td>
+      <td align="center"><b>AWS Cloud</b></td>
       <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
@@ -140,14 +131,14 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b class="hover-zoom">GCP Cloud</b></td>
+      <td align="center"><b>GCP Cloud</b></td>
       <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/Google_Compute_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
         <img src="https://img.shields.io/badge/GCP_VPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td align="center"><b class="hover-zoom">Containers & Web</b></td>
+      <td align="center"><b>Containers & Web</b></td>
       <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -156,7 +147,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b class="hover-zoom">Storage & Network</b></td>
+      <td align="center"><b>Storage & Network</b></td>
       <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/SAN_/_NAS-007ACC?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/LVM_/_RAID-007ACC?style=for-the-badge"/>
@@ -165,7 +156,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b class="hover-zoom">Automation</b></td>
+      <td align="center"><b>Automation</b></td>
       <td style="padding: 10px;">
         <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
         <img src="https://img.shields.io/badge/Cron_Automation-4EAA25?style=for-the-badge"/>
@@ -178,7 +169,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 class="hover-zoom">📜 Learning Roadmap</h3>
+      <h3>📜 Learning Roadmap</h3>
       <ul>
         <li>🟧 <b>AWS Solutions Architect – Associate</b> <i>(In Progress)</i></li>
         <li>🔴 <b>RHCSA</b> <i>(Planned)</i></li>
@@ -186,7 +177,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 class="hover-zoom">💼 Key Enterprise Projects</h3>
+      <h3>💼 Key Enterprise Projects</h3>
       <ul>
         <li>🏥 <b>Telangana NCD</b></li>
         <li>🏥 <b>AP Medical & Health Department</b></li>
