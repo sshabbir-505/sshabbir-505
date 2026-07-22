@@ -41,11 +41,7 @@
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,aws,gcp,docker,kubernetes,ansible,bash,python,git,github,nginx,vscode&perline=14" alt="tech stack"/>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Animated Line">
-</p>
-
----
+<br>
 
 <!-- ================================================================= -->
 <!-- ABOUT ME SECTION                                                  -->
@@ -83,13 +79,13 @@
 </tr>
 </table>
 
----
+<br>
 
 <!-- ================================================================= -->
 <!-- IMPACT & METRICS SECTION                                          -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&text=📈%20Impact%20%26%20Delivery%20Metrics&fontSize=20&fontColor=ffffff&height=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=100&section=header&text=📈%20Impact%20%26%20Delivery%20Metrics&fontSize=22&fontColor=ffffff&fontAlignY=40" width="100%" />
 </p>
 
 <p align="center">
@@ -105,13 +101,13 @@
   <img src="https://img.shields.io/badge/Experience-7%2B%20Years-0E75B6?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience"/>
 </p>
 
----
+<br>
 
 <!-- ================================================================= -->
 <!-- CURRENT FOCUS BADGES                                              -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&text=🚀%20Current%20Focus%20%26%20Learning&fontSize=20&fontColor=ffffff&height=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=100&section=header&text=🚀%20Current%20Focus%20%26%20Learning&fontSize=22&fontColor=ffffff&fontAlignY=40" width="100%" />
 </p>
 
 <p align="center">
@@ -122,49 +118,61 @@
   <img src="https://img.shields.io/badge/Perf%20Tuning-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Perf"/>
 </p>
 
----
+<br>
 
 <!-- ================================================================= -->
 <!-- TECHNICAL SKILLS MATRIX                                           -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&text=⚙️%20Technical%20Skills&fontSize=20&fontColor=ffffff&height=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=100&section=header&text=⚙️%20Technical%20Skills&fontSize=22&fontColor=ffffff&fontAlignY=40" width="100%" />
 </p>
 
-| Category | Skills |
-|---|---|
-| 🖥️ **Operating Systems** | Ubuntu, RHEL, CentOS, Rocky Linux |
-| ☁️ **AWS** | EC2, IAM, VPC, Route53, ELB, Auto Scaling, CloudWatch, S3 |
-| ☁️ **GCP** | Compute Engine, IAM, VPC, Cloud Storage |
-| 🐳 **Containers** | Docker, Docker Compose |
-| 🌐 **Web Servers** | Apache, Nginx, PHP-FPM |
-| 💾 **Storage** | SAN, NAS, LVM, RAID, NFS |
-| 🔐 **Networking** | DNS, SSL/TLS, VPN, IPTables, UFW |
-| 🤖 **Automation** | Bash, Cron, Shell Scripting |
+<div align="center">
 
----
+| Domain | Animated Skill Badges |
+| :--- | :--- |
+| **Operating Systems** | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/> <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white"/> |
+| **AWS Cloud** | <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Route53-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> |
+| **GCP Cloud** | <img src="https://img.shields.io/badge/Google_Compute_Engine-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/GCP_VPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> |
+| **Containers & Web** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=flat-square&logo=php&logoColor=white"/> |
+| **Storage & Net** | <img src="https://img.shields.io/badge/SAN_/_NAS-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/LVM_/_RAID-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/DNS_/_SSL-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/UFW_/_IPTables-007ACC?style=flat-square"/> |
+| **Automation** | <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Cron_Automation-4EAA25?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> |
+
+</div>
+
+<br>
 
 <!-- ================================================================= -->
 <!-- FEATURED REPOSITORIES                                             -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&text=📌%20Featured%20Repositories&fontSize=20&fontColor=ffffff&height=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=100&section=header&text=📌%20Featured%20Repositories&fontSize=22&fontColor=ffffff&fontAlignY=40" width="100%" />
 </p>
 
-| Repository | Description |
-|---|---|
-| 🐧 **Linux Scripts** | Linux administration & troubleshooting |
-| 🤖 **Bash Automation** | Backup & automation scripts |
-| 🌐 **Nginx Configurations** | Production Nginx configurations |
-| ⚙️ **Apache Configurations** | Virtual host examples |
-| 🚀 **PHP-FPM Tuning** | PHP optimization & tuning |
-| 🐳 **Docker Projects** | Docker & Compose examples |
-| ☁️ **AWS Infrastructure** | Cloud deployment examples |
-| ☁️ **GCP Infrastructure** | Google Cloud examples |
-| 📊 **Monitoring Scripts** | Server health monitoring |
-| 🔐 **SSL Management** | Certificate automation |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐧 Linux & Automation</h3>
+      <ul>
+        <li><b><a href="https://github.com/sshabbir-505/linux-scripts">linux-scripts</a></b><br><sub>Linux administration & troubleshooting scripts</sub></li>
+        <li><b><a href="https://github.com/sshabbir-505/bash-automation">bash-automation</a></b><br><sub>Backup, Rsync & log cleanup workflows</sub></li>
+        <li><b><a href="https://github.com/sshabbir-505/monitoring-scripts">monitoring-scripts</a></b><br><sub>Server health & automated uptime alerts</sub></li>
+        <li><b><a href="https://github.com/sshabbir-505/ssl-management">ssl-management</a></b><br><sub>Certbot SSL auto-renewal scripts</sub></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Web Stack & Cloud Ops</h3>
+      <ul>
+        <li><b><a href="https://github.com/sshabbir-505/nginx-configurations">nginx-configurations</a></b><br><sub>Production reverse proxy & security rules</sub></li>
+        <li><b><a href="https://github.com/sshabbir-505/php-fpm-tuning">php-fpm-tuning</a></b><br><sub>High-concurrency PHP optimization setups</sub></li>
+        <li><b><a href="https://github.com/sshabbir-505/docker-projects">docker-projects</a></b><br><sub>Docker Compose production stacks</sub></li>
+        <li><b><a href="https://github.com/sshabbir-505/aws-infrastructure">aws-infrastructure</a></b><br><sub>VPC, IAM & cost-saving templates</sub></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
 <!-- ================================================================= -->
 <!-- CERTIFICATIONS & PROJECTS                                         -->
@@ -181,7 +189,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Enterprise Projects</h3>
+      <h3>💼 Key Enterprise Projects</h3>
       <ul>
         <li>🏥 <b>Telangana NCD</b></li>
         <li>🏥 <b>AP Medical & Health Department</b></li>
@@ -193,13 +201,13 @@
   </tr>
 </table>
 
----
+<br>
 
 <!-- ================================================================= -->
 <!-- GITHUB STATS & ANALYTICS                                          -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&text=📊%20GitHub%20Analytics&fontSize=20&fontColor=ffffff&height=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=100&section=header&text=📊%20GitHub%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=40" width="100%" />
 </p>
 
 <p align="center">
@@ -215,24 +223,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshabbir-505&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
-<!-- ================================================================= -->
-<!-- CONTRIBUTION SNAKE & TROPHIES                                     -->
-<!-- ================================================================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&text=🐍%20Contribution%20Snake&fontSize=20&fontColor=ffffff&height=45" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sshabbir-505/sshabbir-505/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
-
 <br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sshabbir-505&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
----
+<br>
 
 <!-- ================================================================= -->
 <!-- CONNECT WITH ME & FOOTER                                          -->
