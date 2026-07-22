@@ -24,7 +24,7 @@
   </a>
 </div>
 
-<!-- TECH STACK GRID WITH LABELS (NO KUBERNETES / NO VSCODE) -->
+<!-- TECH STACK GRID WITH LABELS -->
 <div align="center" style="margin-top: 15px; margin-bottom: 20px;">
   <table style="border-collapse: collapse; border: none;">
     <tr align="center">
@@ -72,7 +72,7 @@
 
 <!-- IMPACT METRICS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=📈%20Impact%20%26%20Delivery%20Metrics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=110&section=header&text=📈%20Impact%20%26%20Delivery%20Metrics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
@@ -92,7 +92,7 @@
 
 <!-- CURRENT FOCUS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=🚀%20Current%20Focus%20%26%20Learning&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=110&section=header&text=🚀%20Current%20Focus%20%26%20Learning&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
@@ -104,58 +104,58 @@
 
 <!-- TECHNICAL SKILLS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=⚙️%20Technical%20Skills&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=110&section=header&text=⚙️%20Technical%20Skills&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="25%"><b>Operating Systems</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/>
+      <td width="22%" align="center"><b>Operating Systems</b></td>
+      <td style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td><b>AWS Cloud</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS_VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Route53-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <td align="center"><b>AWS Cloud</b></td>
+      <td style="padding: 10px;">
+        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Route53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td><b>GCP Cloud</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Google_Compute_Engine-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GCP_VPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+      <td align="center"><b>GCP Cloud</b></td>
+      <td style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Google_Compute_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GCP_VPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td><b>Containers & Web</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <td align="center"><b>Containers & Web</b></td>
+      <td style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td><b>Storage & Network</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/SAN_/_NAS-007ACC?style=flat-square"/>
-        <img src="https://img.shields.io/badge/LVM_/_RAID-007ACC?style=flat-square"/>
-        <img src="https://img.shields.io/badge/DNS_/_SSL-007ACC?style=flat-square"/>
-        <img src="https://img.shields.io/badge/UFW_/_IPTables-007ACC?style=flat-square"/>
+      <td align="center"><b>Storage & Network</b></td>
+      <td style="padding: 10px;">
+        <img src="https://img.shields.io/badge/SAN_/_NAS-007ACC?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/LVM_/_RAID-007ACC?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/DNS_/_SSL-007ACC?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/UFW_/_IPTables-007ACC?style=for-the-badge"/>
       </td>
     </tr>
     <tr>
-      <td><b>Automation</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Cron_Automation-4EAA25?style=flat-square"/>
+      <td align="center"><b>Automation</b></td>
+      <td style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cron_Automation-4EAA25?style=for-the-badge"/>
       </td>
     </tr>
   </table>
@@ -163,7 +163,7 @@
 
 <!-- FEATURED REPOSITORIES -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=📌%20Featured%20Repositories&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=110&section=header&text=📌%20Featured%20Repositories&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <table width="100%">
@@ -215,7 +215,7 @@
 
 <!-- ANALYTICS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=📊%20GitHub%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=110&section=header&text=📊%20GitHub%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
