@@ -182,7 +182,7 @@
         <li>🏥 <b>Telangana NCD</b></li>
         <li>🏥 <b>AP Medical & Health Department</b></li>
         <li>🏥 <b>AIIMS Delhi</b></li>
-        <li>🚑 <b>AP108 Emergency Response</b></li>
+        <li>🚑 <b>AP108 & 104 Emergency Response</b></li>
         <li>🏙️ <b>APCRDA</b></li>
       </ul>
     </td>
@@ -191,15 +191,6 @@
 
 <!-- FOOTER & CONNECT -->
 <div align="center" style="margin-top: 25px;">
-  <a href="mailto:sshabbir505ali@gmail.com">
-    <img src="https://img.shields.io/badge/🔗%20Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/919948163786" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=120&section=footer" width="100%"/>
