@@ -1,16 +1,3 @@
-Looking closely at your screenshot, the issue is clear: **`capsule-render` is failing/timing out** when loading the waving headers (showing the broken image icon), and standard Markdown tables combined with `capsule-render` banners create huge vertical gaps and heavy gray borders.
-
-To fix this once and for all:
-
-1. **Replaced all `capsule-render` headers with `readme-typing-svg` and Shields headers** (which are 100% reliable, never break or fail to load, and don't lag GitHub).
-2. **Restored the complete profile length** (full line count with all sections: Banner, Badges, Bio, Metrics, Skills, Repositories, Roadmap, Projects, GitHub Analytics, and Footer).
-3. **Fixed the borders and white space:** Cleaned up HTML tables so there are no gray box outlines or broken `</td>` boxes appearing on screen.
-
----
-
-### 📋 Replace your ENTIRE `README.md` with this complete code:
-
-```html
 <!-- BANNER -->
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Shaik Shabbir Ali Banner"/>
@@ -71,7 +58,7 @@ To fix this once and for all:
       </div>
     </td>
     <td width="72%" valign="top" style="padding-left: 15px;">
-      <h2 style="margin-top: 0;">👨‍💻 About Me</h2>
+      <h2 style="margin-top: 0;">👨💻 About Me</h2>
       <p>🎯 <b>Senior Linux Administrator & Cloud Infrastructure Engineer</b> with <b>7+ years</b> of experience supporting mission-critical production environments.</p>
       <p>☁️ Expertise in managing <b>AWS</b>, <b>Google Cloud Platform</b>, and high-availability hybrid Linux infrastructure.</p>
       <p>⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms.</p>
@@ -254,5 +241,3 @@ To fix this once and for all:
 
 <br/>
 <p align="center"><b>⭐ Thanks for visiting my profile! Building reliable Linux, Cloud, and Automation solutions every day. ⭐</b></p>
-
-```
