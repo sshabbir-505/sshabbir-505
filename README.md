@@ -1,138 +1,220 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Shabbir Ali Shaik Banner"/>
+</p>
 
-  <!-- TOP BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Shabbir%20Ali%20Shaik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Linux%20Administrator%20%7C%20Cloud%20Infrastructure%20Engineer%20%7C%20SRE&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+<h1 align="center">Hi 👋 I'm Shabbir Ali Shaik</h1>
 
-  <!-- BADGES / CONTACT -->
-  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sshabbir505ali@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sshabbir-505&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=850&lines=Senior+Linux+Administrator;Cloud+Infrastructure+Engineer;AWS+%7C+GCP+%7C+Docker+%7C+Linux;Automation+%7C+Bash+%7C+Nginx+%7C+PHP-FPM;Always+Learning+%F0%9F%9A%80" />
+</p>
 
-</div>
+<p align="center">
 
-<br />
+<a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<!-- ABOUT ME & PROFILE SECTION -->
+<a href="mailto:sshabbir505ali@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sshabbir-505&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
 <table>
-  <tr>
-    <td width="30%" align="center" valign="top">
-      <br />
-      <img src="https://github.com/sshabbir-505.png" width="200" style="border-radius:50%;" alt="Shabbir Ali Shaik Profile Picture"/>
-      <br /><br />
-      <b>Shabbir Ali Shaik</b><br />
-      <i>Senior Linux & Cloud Engineer</i>
-      <br /><br />
-      💬 <b>Notice Period:</b> 3 Months (Negotiable)<br />
-      📍 <b>Open to:</b> Hyd / Blr / Remote
-    </td>
-    <td width="70%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <p>
-        Senior Linux & Cloud Infrastructure Engineer with <b>7+ years of experience</b> delivering <b>99.9% uptime</b> across AWS, GCP, and on-premise hybrid environments for mission-critical government healthcare and emergency systems.
-      </p>
-      
-      ### 🎯 Key Highlights:
-      * 🚀 <b>High Availability:</b> Managed mission-critical applications like AP State Health (50,000+ daily users) and AP 108 Emergency Dispatch.
-      * ⚡ <b>Optimization:</b> Scaled web stacks (Nginx/Apache + PHP-FPM), cutting p95 response times from 2.1s down to 650ms.
-      * 🤖 <b>Automation:</b> Reduced manual operational overhead by 40% using advanced Bash scripting and cron scheduling.
-      * 💰 <b>Cost Reduction:</b> Lowered cloud infrastructure costs by 20% through EC2/Compute Engine rightsizing and S3 lifecycle policies.
-    </td>
-  </tr>
+<tr>
+
+<td width="34%" align="center">
+
+<img src="assets/profile.png" width="240"/>
+
+<br><br>
+
+### 👋 Welcome
+
+Linux • Cloud • Automation
+
+AWS • GCP • Docker
+
+</td>
+
+<td width="66%">
+
+# 👨‍💻 About Me
+
+🎯 Senior Linux Administrator with **7+ years** of experience supporting production infrastructure.
+
+☁️ Hands-on experience with **AWS**, **Google Cloud Platform**, and hybrid Linux environments.
+
+⚡ Experienced in building reliable, secure, and highly available infrastructure for healthcare and enterprise workloads.
+
+### Core Skills
+
+- Linux Administration
+- AWS
+- Google Cloud Platform
+- Docker
+- Nginx
+- Apache
+- PHP-FPM
+- Bash Scripting
+- LVM
+- SAN/NAS
+- SSL
+- Performance Tuning
+- Disaster Recovery
+- Production Support (L2/L3)
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+# 🚀 Current Focus
 
-<div align="center">
-
-| Domain | Technologies / Tools |
-| :--- | :--- |
-| **Operating Systems** | `RHEL` `Ubuntu` `CentOS` `Rocky Linux` `System Hardening (CIS, SELinux)` |
-| **Cloud Platforms** | `AWS (EC2, S3, VPC, IAM, Route53, Auto Scaling)` `GCP (Compute Engine, IAM, VPC)` |
-| **Containerization** | `Docker` `Docker Compose` `Kubernetes (Learning)` |
-| **Web Servers & Performance** | `Nginx` `Apache` `PHP-FPM Performance Tuning` |
-| **Storage & Networking** | `SAN/NAS` `NFS` `LVM` `RAID` `DNS` `SSL/TLS` `VPN` `IPTables` `UFW` |
-| **Automation & Scripting** | `Bash` `Shell Scripting` `Cron Automation` `Python` `Git` |
-| **SRE & Operations** | `L2/L3 Support` `Root Cause Analysis (RCA)` `Disaster Recovery (RTO < 2h)` |
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,aws,gcp,docker,bash,python,git,github,vscode,nginx,apache" alt="Tech Stack Icons" />
-
-</div>
+```text
+✓ Kubernetes
+✓ Terraform
+✓ Infrastructure as Code
+✓ Docker
+✓ CI/CD
+✓ Linux Performance Tuning
+✓ Cloud Security
+✓ Monitoring & Observability
+```
 
 ---
 
-## 📂 Featured Repositories
+# 🛠️ Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐧 Systems & Shell Automation</h3>
-      <ul>
-        <li><b><a href="https://github.com/sshabbir-505/linux-scripts">linux-scripts</a></b> — LVM expansion, disk management, system checks.</li>
-        <li><b><a href="https://github.com/sshabbir-505/bash-automation">bash-automation</a></b> — Production backup, Rsync, & log cleanup scripts.</li>
-        <li><b><a href="https://github.com/sshabbir-505/monitoring-scripts">monitoring-scripts</a></b> — Server health checks & automated alert triggers.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Web Stack & Cloud Architecture</h3>
-      <ul>
-        <li><b><a href="https://github.com/sshabbir-505/nginx-configurations">nginx-configurations</a></b> — Reverse proxy, SSL, & web security rules.</li>
-        <li><b><a href="https://github.com/sshabbir-505/php-fpm-tuning">php-fpm-tuning</a></b> — High-concurrency pool optimization setups.</li>
-        <li><b><a href="https://github.com/sshabbir-505/aws-infrastructure">aws-infrastructure</a></b> — Multi-tier VPC setups, IAM policies, & cost rules.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,aws,gcp,docker,bash,python,git,github,vscode"/>
+
+</p>
 
 ---
 
-## 🏛️ Key Projects Handled
+# ⚙️ Technologies
 
-* **AP State Medical & Health Dept. (APMERMA)** — Multi-tier high-uptime cloud infrastructure setup.
-* **AIIMS Delhi Emergency Services** — Mission-critical, 24/7 high-availability infrastructure maintenance.
-* **AP 108 / 104 Emergency Dispatch** — Real-time emergency call handling systems support.
-* **Telangana NCD & APCRDA** — Hybrid cloud network management and storage administration.
-
----
-
-## 📜 Certifications & Continuous Learning
-
-* 🟧 **AWS Certified Solutions Architect – Associate** *(In Progress)*
-* 🔴 **RHCSA** *(Planned)*
-* ☸️ **Kubernetes & Terraform Infrastructure as Code** *(Active Learning)*
+| Category | Skills |
+|-----------|--------|
+| Operating Systems | Ubuntu, RHEL, CentOS, Rocky Linux |
+| Cloud | AWS EC2, IAM, VPC, Route53, ELB, Auto Scaling, CloudWatch, S3 |
+| GCP | Compute Engine, IAM, VPC, Cloud Storage |
+| Containers | Docker, Docker Compose |
+| Web Servers | Apache, Nginx, PHP-FPM |
+| Storage | SAN, NAS, LVM, RAID, NFS |
+| Networking | DNS, SSL/TLS, VPN, IPTables, UFW |
+| Automation | Bash, Cron, Shell Scripting |
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=sshabbir-505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshabbir-505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sshabbir-505&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <br /><br />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshabbir-505&layout=compact&theme=tokyonight&hide_border=true"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sshabbir-505&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 🔥 GitHub Streak
 
-### 🤝 Connect with Me
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shabbir-ali-cloud-infra)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sshabbir505ali@gmail.com)
+<img src="https://streak-stats.demolab.com?user=sshabbir-505&theme=tokyonight&hide_border=true"/>
 
-⭐ *Thank you for checking out my GitHub profile!*
+</p>
 
-</div>
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sshabbir-505&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sshabbir-505&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📌 Featured Work
+
+| Repository | Description |
+|------------|-------------|
+| 🐧 Linux Scripts | Linux administration & troubleshooting |
+| 🤖 Bash Automation | Backup & automation scripts |
+| 🌐 Nginx Configurations | Production Nginx configurations |
+| ⚙️ Apache Configurations | Virtual host examples |
+| 🚀 PHP-FPM Tuning | PHP optimization & tuning |
+| 🐳 Docker Projects | Docker & Compose examples |
+| ☁️ AWS Infrastructure | Cloud deployment examples |
+| ☁️ GCP Infrastructure | Google Cloud examples |
+| 📊 Monitoring Scripts | Server health monitoring |
+| 🔐 SSL Management | Certificate automation |
+
+---
+
+# 📜 Learning Roadmap
+
+- AWS Solutions Architect – Associate
+- RHCSA
+- Kubernetes
+- Terraform
+- Ansible
+
+---
+
+# 💼 Projects
+
+- Telangana NCD
+- AP Medical & Health Department
+- AIIMS Delhi
+- AP108 Emergency Response
+- APCRDA
+
+---
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="mailto:sshabbir505ali@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+Building reliable Linux, Cloud Infrastructure, and Automation solutions every day.
+
+</p>
