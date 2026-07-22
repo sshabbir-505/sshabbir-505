@@ -43,20 +43,14 @@
   </table>
 </div>
 
-<!-- ABOUT ME SECTION (WITHOUT PROFILE PICTURE) -->
+<!-- ABOUT ME SECTION -->
 <table width="100%">
   <tr>
     <td width="100%" valign="top" style="padding: 10px;">
       <h2 style="margin-top: 0;">👨‍💻 About Me</h2>
-      <p>🎯 <b>Senior Systems and Cloud Infrastructure Engineer with 7+ years of experience delivering 99.9% uptime on 
-mission-critical, multi-platform environments (Windows Server, Active Directory, RHEL, Ubuntu, CentOS) for 
-government healthcare and emergency-dispatch systems serving 50,000+ daily users. 
-Experienced across the full administration lifecycle: OS and software patch management, system health 
-monitoring, backup and restore automation, failover orchestration, performance tuning, and LAN network 
-security (firewalls, TCP/IP, DNS, DHCP). Skilled liaison between engineering teams and customer 
-stakeholders on system upgrades, hardening, and rollout planning, with every install rehearsed and 
-documented before production cut-over. Comfortable operating in 24x7 on-call support models driving 
-reliability for platforms supporting 10,000+ daily transactions. </p>
+      <p>🎯 <b>Senior Systems and Cloud Infrastructure Engineer</b> with <b>7+ years of experience</b> delivering 99.9% uptime on mission-critical, multi-platform environments (Windows Server, Active Directory, RHEL, Ubuntu, CentOS) for government healthcare and emergency-dispatch systems serving <b>50,000+ daily users</b>.</p>
+      <p>Experienced across the full administration lifecycle: OS and software patch management, system health monitoring, backup and restore automation, failover orchestration, performance tuning, and LAN network security (firewalls, TCP/IP, DNS, DHCP).</p>
+      <p>Skilled liaison between engineering teams and customer stakeholders on system upgrades, hardening, and rollout planning. Comfortable operating in 24x7 on-call support models driving reliability for platforms supporting 10,000+ daily transactions.</p>
       <p>☁️ Expertise in managing <b>AWS</b>, <b>Google Cloud Platform</b>, and high-availability hybrid Linux infrastructure.</p>
       <p>⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms.</p>
       <h3>🧩 Core Expertise</h3>
@@ -69,7 +63,7 @@ reliability for platforms supporting 10,000+ daily transactions. </p>
 
 <!-- IMPACT METRICS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=📈%20Impact%20%26%20Delivery%20Metrics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=%F0%9F%93%88%20Impact%20and%20Delivery%20Metrics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
@@ -89,7 +83,7 @@ reliability for platforms supporting 10,000+ daily transactions. </p>
 
 <!-- CURRENT FOCUS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=🚀%20Current%20Focus%20%26%20Learning&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=%F0%9F%9A%80%20Current%20Focus%20and%20Learning&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
@@ -101,7 +95,7 @@ reliability for platforms supporting 10,000+ daily transactions. </p>
 
 <!-- TECHNICAL SKILLS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=⚙️%20Technical%20Skills&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=%E2%9A%99%EF%B8%8F%20Technical%20Skills&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
@@ -160,7 +154,7 @@ reliability for platforms supporting 10,000+ daily transactions. </p>
 
 <!-- FEATURED REPOSITORIES -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=📌%20Featured%20Repositories&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=%F0%9F%93%90%20Featured%20Repositories&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <table width="100%">
@@ -212,12 +206,12 @@ reliability for platforms supporting 10,000+ daily transactions. </p>
 
 <!-- ANALYTICS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=📊%20GitHub%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sshabbir-505&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshabbir-505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sshabbir-505&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sshabbir-505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=sshabbir-505&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <br/><br/>
