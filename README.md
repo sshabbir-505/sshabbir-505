@@ -48,7 +48,15 @@
   <tr>
     <td width="100%" valign="top" style="padding: 10px;">
       <h2 style="margin-top: 0;">👨‍💻 About Me</h2>
-      <p>🎯 <b>Senior Linux Administrator & Cloud Infrastructure Engineer</b> with <b>7+ years</b> of experience supporting mission-critical production environments.</p>
+      <p>🎯 <b>Senior Systems and Cloud Infrastructure Engineer with 7+ years of experience delivering 99.9% uptime on 
+mission-critical, multi-platform environments (Windows Server, Active Directory, RHEL, Ubuntu, CentOS) for 
+government healthcare and emergency-dispatch systems serving 50,000+ daily users. 
+Experienced across the full administration lifecycle: OS and software patch management, system health 
+monitoring, backup and restore automation, failover orchestration, performance tuning, and LAN network 
+security (firewalls, TCP/IP, DNS, DHCP). Skilled liaison between engineering teams and customer 
+stakeholders on system upgrades, hardening, and rollout planning, with every install rehearsed and 
+documented before production cut-over. Comfortable operating in 24x7 on-call support models driving 
+reliability for platforms supporting 10,000+ daily transactions. </p>
       <p>☁️ Expertise in managing <b>AWS</b>, <b>Google Cloud Platform</b>, and high-availability hybrid Linux infrastructure.</p>
       <p>⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms.</p>
       <h3>🧩 Core Expertise</h3>
