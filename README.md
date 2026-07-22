@@ -52,8 +52,6 @@
       <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/><br/><sub style="font-size: 11px;"><b>Docker</b></sub></td>
       <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=ansible" width="42" alt="Ansible"/><br/><sub style="font-size: 11px;"><b>Ansible</b></sub></td>
       <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=bash" width="42" alt="Bash"/><br/><sub style="font-size: 11px;"><b>Bash</b></sub></td>
-      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br/><sub style="font-size: 11px;"><b>Git</b></sub></td>
-      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/><br/><sub style="font-size: 11px;"><b>GitHub</b></sub></td>
       <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=nginx" width="42" alt="Nginx"/><br/><sub style="font-size: 11px;"><b>Nginx</b></sub></td>
     </tr>
   </table>
@@ -176,34 +174,6 @@
   </table>
 </div>
 
-<!-- FEATURED REPOSITORIES -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=%F0%9F%93%90%20Featured%20Repositories&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 class="hover-zoom">🐧 Linux & Automation</h3>
-      <ul>
-        <li><b><a href="https://github.com/sshabbir-505/linux-scripts">linux-scripts</a></b><br/><sub>Linux administration & troubleshooting scripts</sub></li>
-        <li><b><a href="https://github.com/sshabbir-505/bash-automation">bash-automation</a></b><br/><sub>Backup, Rsync & log cleanup workflows</sub></li>
-        <li><b><a href="https://github.com/sshabbir-505/monitoring-scripts">monitoring-scripts</a></b><br/><sub>Server health & automated uptime alerts</sub></li>
-        <li><b><a href="https://github.com/sshabbir-505/ssl-management">ssl-management</a></b><br/><sub>Certbot SSL auto-renewal scripts</sub></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 class="hover-zoom">🌐 Web Stack & Cloud Ops</h3>
-      <ul>
-        <li><b><a href="https://github.com/sshabbir-505/nginx-configurations">nginx-configurations</a></b><br/><sub>Production reverse proxy & security rules</sub></li>
-        <li><b><a href="https://github.com/sshabbir-505/php-fpm-tuning">php-fpm-tuning</a></b><br/><sub>High-concurrency PHP optimization setups</sub></li>
-        <li><b><a href="https://github.com/sshabbir-505/docker-projects">docker-projects</a></b><br/><sub>Docker Compose production stacks</sub></li>
-        <li><b><a href="https://github.com/sshabbir-505/aws-infrastructure">aws-infrastructure</a></b><br/><sub>VPC, IAM & cost-saving templates</sub></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 <!-- CERTIFICATIONS & PROJECTS -->
 <table width="100%">
   <tr>
@@ -227,23 +197,6 @@
     </td>
   </tr>
 </table>
-
-<!-- ANALYTICS -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0e75b6&height=100&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
-</p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sshabbir-505&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sshabbir-505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=sshabbir-505&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshabbir-505&theme=tokyo-night" alt="Activity Graph"/>
-  <br/><br/>
-  <!-- FIXED TROPHIES ENDPOINT -->
-  <img src="https://github-profile-trophies.vercel.app/?username=sshabbir-505&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies"/>
-</div>
 
 <!-- FOOTER & CONNECT -->
 <div align="center" style="margin-top: 25px;">
