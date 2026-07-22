@@ -24,9 +24,23 @@
   </a>
 </div>
 
-<!-- TECH ICONS -->
-<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,aws,gcp,docker,kubernetes,ansible,bash,git,github,nginx,vscode&perline=13" alt="tech stack"/>
+<!-- TECH STACK GRID WITH LABELS (NO KUBERNETES / NO VSCODE) -->
+<div align="center" style="margin-top: 15px; margin-bottom: 20px;">
+  <table style="border-collapse: collapse; border: none;">
+    <tr align="center">
+      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=linux" width="42" alt="Linux"/><br/><sub style="font-size: 11px;"><b>Linux</b></sub></td>
+      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=ubuntu" width="42" alt="Ubuntu"/><br/><sub style="font-size: 11px;"><b>Ubuntu</b></sub></td>
+      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=redhat" width="42" alt="RHEL"/><br/><sub style="font-size: 11px;"><b>RHEL</b></sub></td>
+      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS"/><br/><sub style="font-size: 11px;"><b>AWS</b></sub></td>
+      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=gcp" width="42" alt="GCP"/><br/><sub style="font-size: 11px;"><b>GCP</b></sub></td>
+      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/><br/><sub style="font-size: 11px;"><b>Docker</b></sub></td>
+      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=ansible" width="42" alt="Ansible"/><br/><sub style="font-size: 11px;"><b>Ansible</b></sub></td>
+      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=bash" width="42" alt="Bash"/><br/><sub style="font-size: 11px;"><b>Bash</b></sub></td>
+      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br/><sub style="font-size: 11px;"><b>Git</b></sub></td>
+      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/><br/><sub style="font-size: 11px;"><b>GitHub</b></sub></td>
+      <td style="padding: 8px;"><img src="https://skillicons.dev/icons?i=nginx" width="42" alt="Nginx"/><br/><sub style="font-size: 11px;"><b>Nginx</b></sub></td>
+    </tr>
+  </table>
 </div>
 
 <!-- ABOUT ME SECTION -->
@@ -62,13 +76,13 @@
 </p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>🎯 40%</b><br/>Operational Workload Cut</td>
-      <td align="center"><b>📊 20%</b><br/>Cloud Cost Optimization</td>
-      <td align="center"><b>🚦 3x</b><br/>Surge Traffic Stability</td>
-      <td align="center"><b>⏱️ RTO &lt; 2 Hrs</b><br/>DR Orchestration</td>
-      <td align="center"><b>👥 50,000+</b><br/>Daily Users Supported</td>
+  <table width="100%">
+    <tr align="center">
+      <td width="20%"><b>🎯 40%</b><br/><sub style="font-size: 11px;">Operational Workload Cut</sub></td>
+      <td width="20%"><b>📊 20%</b><br/><sub style="font-size: 11px;">Cloud Cost Optimization</sub></td>
+      <td width="20%"><b>🚦 3x</b><br/><sub style="font-size: 11px;">Surge Traffic Stability</sub></td>
+      <td width="20%"><b>⏱️ RTO &lt; 2 Hrs</b><br/><sub style="font-size: 11px;">DR Orchestration</sub></td>
+      <td width="20%"><b>👥 50,000+</b><br/><sub style="font-size: 11px;">Daily Users Supported</sub></td>
     </tr>
   </table>
   <br/>
@@ -82,7 +96,6 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-In%20Progress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Ansible-Learning-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/CI%2FCD-Learning-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
   <img src="https://img.shields.io/badge/Cloud%20Security-Focus-005571?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Security"/>
@@ -184,7 +197,6 @@
       <ul>
         <li>🟧 <b>AWS Solutions Architect – Associate</b> <i>(In Progress)</i></li>
         <li>🔴 <b>RHCSA</b> <i>(Planned)</i></li>
-        <li>☸️ <b>Kubernetes</b> <i>(Learning)</i></li>
         <li>🤖 <b>Ansible</b> <i>(Learning)</i></li>
       </ul>
     </td>
