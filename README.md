@@ -4,15 +4,26 @@
 </p>
 
 <!-- CONTACT & BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Andhra_Pradesh-7B61FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7B61FF" />
-  <img src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logo=workplace&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notice_Period-2_Months-F97316?style=for-the-badge&logo=clockify&logoColor=white" />
-</p>
+   
+<div align="center">
+  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sshabbir505ali@gmail.com">
+    <img src="https://img.shields.io/badge/🔗%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/919948163786" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-0E75B6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=sshabbir-505&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+<div align="center" style="margin-top: 8px;">
+  <img src="https://img.shields.io/badge/%23OPEN%20TO%20WORK-2E8B57?style=for-the-badge&logo=Workplace&logoColor=white" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Notice%20Period-2%20Months-E65100?style=for-the-badge&logo=clockify&logoColor=white" alt="Notice Period"/>
+</div>
+
 <!-- TYPING ANIMATION SUBTITLE -->
 <div align="center" style="margin-top: 10px;">
   <a href="https://git.io/typing-svg">
