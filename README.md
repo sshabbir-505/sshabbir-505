@@ -11,9 +11,9 @@
   <a href="mailto:sshabbir505ali@gmail.com">
     <img src="https://img.shields.io/badge/🔗%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/919948163786" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20WhatsApp-+91%209948163786-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+  <a href="https://wa.me/919876543210" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-0E75B6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://komarev.com/ghpvc/?username=sshabbir-505&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
