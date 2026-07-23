@@ -20,7 +20,7 @@
 
 <div align="center" style="margin-top: 8px;">
   <img src="https://img.shields.io/badge/%23OPEN%20TO%20WORK-2E8B57?style=for-the-badge&logo=Workplace&logoColor=white" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/Notice%20Period-3%20Months%20(Negotiable)-E65100?style=for-the-badge&logo=clockify&logoColor=white" alt="Notice Period"/>
+<img src="https://img.shields.io/badge/Notice%20Period-2%20Months-E65100?style=for-the-badge&logo=clockify&logoColor=white" alt="Notice Period"/>
 </div>
 
 <!-- TYPING ANIMATION SUBTITLE -->
@@ -67,12 +67,7 @@
     <img src="https://img.shields.io/badge/Hindi-Native%20%2F%20Fluent-0E75B6?style=for-the-badge" alt="Hindi"/>
     <img src="https://img.shields.io/badge/Telugu-Native%20%2F%20Fluent-0E75B6?style=for-the-badge" alt="Telugu"/>
   </p>
-  <ul>
-    <li>🇬🇧 <b>English</b> – Professional / Full Working Proficiency</li>
-    <li>🇮🇳 <b>Hindi</b> – Native / Fluent</li>
-    <li>🇮🇳 <b>Telugu</b> – Native / Fluent</li>
-  </ul>
-</div>
+ </div>
 
 <!-- IMPACT METRICS -->
 <p align="center">
@@ -165,29 +160,39 @@
   </table>
 </div>
 
-<!-- CERTIFICATIONS & PROJECTS -->
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📜 Learning Roadmap</h3>
-      <ul>
-        <li>🟧 <b>AWS Solutions Architect – Associate</b> <i>(In Progress)</i></li>
-        <li>🔴 <b>RHCSA</b> <i>(Planned)</i></li>
-        <li>🤖 <b>Ansible</b> <i>(Learning)</i></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💼 Key Enterprise Projects</h3>
-      <ul>
-        <li>🏥 <b>Telangana NCD</b></li>
-        <li>🏥 <b>AP Medical & Health Department</b></li>
-        <li>🏥 <b>AIIMS Delhi</b></li>
-        <li>🚑 <b>AP108 & 104 Emergency Response</b></li>
-        <li>🏙️ <b>APCRDA</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<!-- LEARNING ROADMAP -->
+## 📜 Learning Roadmap
+
+<ul>
+  <li>🟧 <b>AWS Solutions Architect – Associate</b> <i>(In Progress)</i></li>
+  <li>🔴 <b>RHCSA</b> <i>(Planned)</i></li>
+  <li>🤖 <b>Ansible</b> <i>(Learning)</i></li>
+</ul>
+
+---
+
+<!-- KEY ENTERPRISE PROJECTS -->
+## 💼 Key Enterprise Projects
+
+<ul>
+  <li>🏥 <b>Telangana NCDCD</b><br>
+  Designed and maintained Linux-based infrastructure supporting the Telangana Non-Communicable Disease Control Division, ensuring secure, highly available, and reliable healthcare application services.</li>
+
+  <li>🏥 <b>AP Medical & Health Department</b><br>
+  Managed production Linux servers, web services, databases, and application deployments for Andhra Pradesh Medical & Health Department, ensuring high availability and optimal system performance.</li>
+
+  <li>🏥 <b>Mission Delhi AIIMS Emergency Services</b><br>
+  Supported the backend Linux infrastructure for AIIMS emergency response services, maintaining critical applications, monitoring system health, and ensuring minimal downtime.</li>
+
+  <li>🚑 <b>AP108 & 104 Emergency Response</b><br>
+  Administered mission-critical Linux servers powering Andhra Pradesh's 108 Emergency Ambulance and 104 Health Helpline services, focusing on uptime, security, and disaster recovery.</li>
+
+  <li>🚑 <b>FRS Attendance Bihar</b><br>
+  Maintained Linux servers and application infrastructure for the Bihar Facial Recognition System (FRS) attendance platform, ensuring secure authentication and reliable performance.</li>
+
+  <li>🏙️ <b>APCRDA</b><br>
+  Managed cloud and on-premises Linux infrastructure for Andhra Pradesh Capital Region Development Authority (APCRDA), including application hosting, backups, monitoring, and performance optimization.</li>
+</ul>
 
 <!-- FOOTER & CONNECT -->
 <div align="center" style="margin-top: 25px;">
