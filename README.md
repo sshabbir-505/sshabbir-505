@@ -69,7 +69,7 @@
   </p>
 </div>
 
-<!-- IMPACT METRICS -->
+<!-- IMPACT METRICS BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:38bdf8,100:0e75b6&height=120&section=header&text=%F0%9F%93%88%20Impact%20and%20Delivery%20Metrics&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 </p>
@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/Experience-7%2B%20Years-0E75B6?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience"/>
 </div>
 
-<!-- CURRENT FOCUS -->
+<!-- CURRENT FOCUS BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:38bdf8,100:0e75b6&height=120&section=header&text=%F0%9F%9A%80%20Current%20Focus%20and%20Learning&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 </p>
@@ -101,81 +101,22 @@
   <img src="https://img.shields.io/badge/Perf%20Tuning-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Perf"/>
 </div>
 
-<!-- TECHNICAL SKILLS & LEARNING ROADMAP (SIDE-BY-SIDE) -->
+<!-- TECHNICAL SKILLS & LEARNING ROADMAP BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:38bdf8,100:0e75b6&height=120&section=header&text=%E2%9A%99%EF%B8%8F%20Technical%20Skills%20%26%20Learning%20Roadmap&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 </p>
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <!-- TECHNICAL SKILLS (LEFT SIDE) -->
-    <td width="65%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="30%" align="center"><b>Operating Systems</b></td>
-          <td style="padding: 6px;">
-            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-            <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-            <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/>
-          </td>
-        </tr>
-        <tr>
-          <td align="center"><b>AWS Cloud</b></td>
-          <td style="padding: 6px;">
-            <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-            <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-            <img src="https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Route53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-          </td>
-        </tr>
-        <tr>
-          <td align="center"><b>GCP Cloud</b></td>
-          <td style="padding: 6px;">
-            <img src="https://img.shields.io/badge/Google_Compute_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-            <img src="https://img.shields.io/badge/GCP_VPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-          </td>
-        </tr>
-        <tr>
-          <td align="center"><b>Containers & Web</b></td>
-          <td style="padding: 6px;">
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-            <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-          </td>
-        </tr>
-        <tr>
-          <td align="center"><b>Storage & Network</b></td>
-          <td style="padding: 6px;">
-            <img src="https://img.shields.io/badge/SAN_/_NAS-007ACC?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/LVM_/_RAID-007ACC?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/DNS_/_SSL-007ACC?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/UFW_/_IPTables-007ACC?style=for-the-badge"/>
-          </td>
-        </tr>
-        <tr>
-          <td align="center"><b>Automation</b></td>
-          <td style="padding: 6px;">
-            <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Cron_Automation-4EAA25?style=for-the-badge"/>
-          </td>
-        </tr>
-      </table>
-    </td>
+<!-- SIDE-BY-SIDE MARKDOWN TABLE -->
+| ⚙️ Technical Skills | 📜 Learning Roadmap |
+| :--- | :--- |
+| **Operating Systems**<br/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/> | 🟧 **AWS Solutions Architect – Associate**<br/>*(In Progress)* |
+| **AWS Cloud**<br/><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Route53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | 🔴 **RHCSA**<br/>*(Planned)* |
+| **GCP Cloud**<br/><img src="https://img.shields.io/badge/Google_Compute_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/GCP_VPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> | 🤖 **Ansible**<br/>*(Learning)* |
+| **Containers & Web**<br/><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=for-the-badge&logo=php&logoColor=white"/> | |
+| **Storage & Network**<br/><img src="https://img.shields.io/badge/SAN_/_NAS-007ACC?style=for-the-badge"/> <img src="https://img.shields.io/badge/LVM_/_RAID-007ACC?style=for-the-badge"/> <img src="https://img.shields.io/badge/DNS_/_SSL-007ACC?style=for-the-badge"/> <img src="https://img.shields.io/badge/UFW_/_IPTables-007ACC?style=for-the-badge"/> | |
+| **Automation**<br/><img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Cron_Automation-4EAA25?style=for-the-badge"/> | |
 
-    <!-- LEARNING ROADMAP (RIGHT SIDE) -->
-    <td width="35%" valign="top" style="padding-left: 15px;">
-      <h3 style="margin-top: 0; color: #0E75B6;">📜 Learning Roadmap</h3>
-      <ul style="line-height: 1.8; margin-top: 5px;">
-        <li>🟧 <b>AWS Solutions Architect – Associate</b><br/><i>(In Progress)</i></li>
-        <li style="margin-top: 10px;">🔴 <b>RHCSA</b><br/><i>(Planned)</i></li>
-        <li style="margin-top: 10px;">🤖 <b>Ansible</b><br/><i>(Learning)</i></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<hr/>
+---
 
 <!-- KEY ENTERPRISE PROJECTS -->
 <h2>💼 Key Enterprise Projects</h2>
