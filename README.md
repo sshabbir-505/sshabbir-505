@@ -106,9 +106,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:38bdf8,100:0e75b6&height=120&section=header&text=%E2%9A%99%EF%B8%8F%20Technical%20Skills%20%26%20Learning%20Roadmap&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 </p>
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <!-- TECHNICAL SKILLS (LEFT) -->
+    <!-- TECHNICAL SKILLS (LEFT SIDE) -->
     <td width="65%" valign="top">
       <table width="100%">
         <tr>
@@ -163,13 +163,13 @@
       </table>
     </td>
 
-    <!-- LEARNING ROADMAP (RIGHT) -->
+    <!-- LEARNING ROADMAP (RIGHT SIDE) -->
     <td width="35%" valign="top" style="padding-left: 15px;">
       <h3 style="margin-top: 0; color: #0E75B6;">📜 Learning Roadmap</h3>
-      <ul style="line-height: 1.8;">
+      <ul style="line-height: 1.8; margin-top: 5px;">
         <li>🟧 <b>AWS Solutions Architect – Associate</b><br/><i>(In Progress)</i></li>
-        <li style="margin-top: 8px;">🔴 <b>RHCSA</b><br/><i>(Planned)</i></li>
-        <li style="margin-top: 8px;">🤖 <b>Ansible</b><br/><i>(Learning)</i></li>
+        <li style="margin-top: 10px;">🔴 <b>RHCSA</b><br/><i>(Planned)</i></li>
+        <li style="margin-top: 10px;">🤖 <b>Ansible</b><br/><i>(Learning)</i></li>
       </ul>
     </td>
   </tr>
