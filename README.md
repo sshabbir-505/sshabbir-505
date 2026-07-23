@@ -3,6 +3,25 @@
   <img src="assets/banner.png" width="100%" alt="Shaik Shabbir Ali Banner"/>
 </p>
 
+<!-- CONTACT & BADGES -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0E75B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sshabbir505ali@gmail.com">
+    <img src="https://img.shields.io/badge/🔗%20Gmail-0E75B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/919948163786" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20WhatsApp-0E75B6?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-0E75B6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=sshabbir-505&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+<div align="center" style="margin-top: 8px;">
+  <img src="https://img.shields.io/badge/%23OPEN%20TO%20WORK-0E75B6?style=for-the-badge&logo=Workplace&logoColor=white" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Notice%20Period-2%20Months-0E75B6?style=for-the-badge&logo=clockify&logoColor=white" alt="Notice Period"/>
+</div>
 
 <!-- TYPING ANIMATION SUBTITLE -->
 <div align="center" style="margin-top: 10px;">
@@ -75,7 +94,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:38bdf8,100:0e75b6&height=120&section=header&text=%F0%9F%9A%80%20Current%20Focus%20and%20Learning&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 </p>
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Ansible-Learning-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/YAML-Automation-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
@@ -125,26 +144,17 @@
 </ul>
 
 <!-- FOOTER & CONNECT -->
-<!-- CONTACT & BADGES -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0E75B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<div align="center" style="margin-top: 25px;">
   <a href="mailto:sshabbir505ali@gmail.com">
-    <img src="https://img.shields.io/badge/🔗%20Gmail-0E75B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/🔗%20Gmail-Contact_Me-0E75B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-0E75B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://wa.me/919948163786" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20WhatsApp-0E75B6?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/🔗%20WhatsApp-Chat-0E75B6?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-0E75B6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=sshabbir-505&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
-
-<div align="center" style="margin-top: 8px;">
-  <img src="https://img.shields.io/badge/%23OPEN%20TO%20WORK-0E75B6?style=for-the-badge&logo=Workplace&logoColor=white" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/Notice%20Period-2%20Months-0E75B6?style=for-the-badge&logo=clockify&logoColor=white" alt="Notice Period"/>
-</div>
-
 
 <p align="center" style="margin-top: 15px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:38bdf8,100:0e75b6&height=120&section=footer&animation=fadeIn" width="100%"/>
