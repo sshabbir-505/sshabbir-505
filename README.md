@@ -53,12 +53,12 @@
   <p>🎯 <b>Senior Systems and Cloud Infrastructure Engineer</b> with <b>7+ years of experience</b> delivering 99.9% uptime on mission-critical, multi-platform environments (Windows Server, Active Directory, RHEL, Ubuntu, CentOS) for government healthcare and emergency-dispatch systems serving <b>50,000+ daily users</b>.</p>
   <p>Experienced across the full administration lifecycle: OS and software patch management, system health monitoring, backup and restore automation, failover orchestration, performance tuning, and LAN network security (firewalls, TCP/IP, DNS, DHCP).</p>
   <p>Skilled liaison between engineering teams and customer stakeholders on system upgrades, hardening, and rollout planning. Comfortable operating in 24x7 on-call support models driving reliability for platforms supporting 10,000+ daily transactions.</p>
-  <p>☁️ Expertise in managing <b>AWS</b>, <b>Google Cloud Platform</b>, and high-availability hybrid Linux infrastructure.</p>
+  <p>☁️ Expertise in managing <b>AWS</b>, <b>Google Cloud Platform</b>, and high-availability hybrid Linux & Windows infrastructure.</p>
   <p>⚡ Proven record in building reliable, secure systems for government healthcare and emergency response platforms.</p>
   
   <h3>🧩 Core Expertise</h3>
   <p>
-    <code>Linux (RHEL/Ubuntu/CentOS)</code> <code>AWS</code> <code>GCP</code> <code>Docker</code> <code>Nginx</code> <code>Apache</code> <code>PHP-FPM Tuning</code> <code>Bash Scripting</code> <code>SAN/NAS</code> <code>LVM</code> <code>SSL Automation</code> <code>L2/L3 SRE Support</code>
+    <code>Linux (RHEL/Ubuntu/CentOS)</code> <code>Windows Server & Active Directory</code> <code>AWS</code> <code>GCP</code> <code>Docker</code> <code>Nginx</code> <code>Apache</code> <code>PHP-FPM Tuning</code> <code>Bash Scripting</code> <code>SAN/NAS Disk Mounting</code> <code>LVM & Storage</code> <code>SSL Automation</code> <code>L2/L3 SRE Support</code>
   </p>
 
   <h3>🗣️ Languages Spoken</h3>
@@ -95,10 +95,11 @@
 </p>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Ansible-Learning-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/YAML-Automation-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
   <img src="https://img.shields.io/badge/CI%2FCD-Learning-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
   <img src="https://img.shields.io/badge/Cloud%20Security-Focus-005571?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Security"/>
-  <img src="https://img.shields.io/badge/Perf%20Tuning-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Perf"/>
 </div>
 
 <!-- TECHNICAL SKILLS & LEARNING ROADMAP BANNER -->
@@ -109,12 +110,12 @@
 <!-- SIDE-BY-SIDE MARKDOWN TABLE -->
 | ⚙️ Technical Skills | 📜 Learning Roadmap |
 | :--- | :--- |
-| **Operating Systems**<br/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/> | 🟧 **AWS Solutions Architect – Associate**<br/>*(In Progress)* |
-| **AWS Cloud**<br/><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Route53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | 🔴 **RHCSA**<br/>*(Planned)* |
-| **GCP Cloud**<br/><img src="https://img.shields.io/badge/Google_Compute_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/GCP_VPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> | 🤖 **Ansible**<br/>*(Learning)* |
-| **Containers & Web**<br/><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=for-the-badge&logo=php&logoColor=white"/> | |
-| **Storage & Network**<br/><img src="https://img.shields.io/badge/SAN_/_NAS-007ACC?style=for-the-badge"/> <img src="https://img.shields.io/badge/LVM_/_RAID-007ACC?style=for-the-badge"/> <img src="https://img.shields.io/badge/DNS_/_SSL-007ACC?style=for-the-badge"/> <img src="https://img.shields.io/badge/UFW_/_IPTables-007ACC?style=for-the-badge"/> | |
-| **Automation**<br/><img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Cron_Automation-4EAA25?style=for-the-badge"/> | |
+| **Operating Systems (Linux)**<br/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/><br/><sub>• LVM Expansion • Disk Formatting (`mkfs.ext4`/`xfs`) • `/etc/fstab` Mounting • SAN/NAS Mounts</sub> | 🟧 **AWS Solutions Architect – Associate**<br/>*(In Progress)* |
+| **Windows Server & Active Directory**<br/><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white"/><br/><sub>• OUs Creation & Maintenance • Group Policy Objects (GPOs) • Users & Computers Mgmt • AD Replication & DNS Troubleshooting</sub> | ☸️ **Kubernetes (CKA)**<br/>*(Learning Cluster Architecture & Deployments)* |
+| **AWS Cloud Storage & Infra**<br/><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3_/_EFS-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/VPC_/_Route53-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/><sub>• EBS Attach/Detach/Mounting • EFS NFS Mounts • SSH Port Tunneling • VPC Peering</sub> | 🔴 **RHCSA (Red Hat Certified)**<br/>*(Planned)* |
+| **GCP Cloud Storage & Infra**<br/><img src="https://img.shields.io/badge/Compute_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Persistent_Disks-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/><br/><sub>• Persistent Disk Attaching/Mounting • Cloud Storage FUSE Mounting • IAP SSH Tunneling</sub> | 🤖 **Ansible Automation**<br/>*(Learning Playbooks, Roles & Inventories)* |
+| **Containers & Web**<br/><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/PHP--FPM-777BB4?style=for-the-badge&logo=php&logoColor=white"/> | 📄 **YAML Configuration**<br/>*(Mastering Syntax for K8s & Ansible)* |
+| **Automation & Security**<br/><img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Cron-Automation-4EAA25?style=for-the-badge"/> <img src="https://img.shields.io/badge/SSL_/_Certbot-007ACC?style=for-the-badge"/> | |
 
 ---
 
