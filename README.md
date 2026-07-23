@@ -3,7 +3,6 @@
   <img src="assets/banner.png" width="100%" alt="Shaik Shabbir Ali Banner"/>
 </p>
 
-
 <!-- TYPING ANIMATION SUBTITLE -->
 <div align="center" style="margin-top: 10px;">
   <a href="https://git.io/typing-svg">
@@ -124,8 +123,7 @@
   Managed cloud and on-premises Linux infrastructure for Andhra Pradesh Capital Region Development Authority (APCRDA), including application hosting, backups, monitoring, and performance optimization.</li>
 </ul>
 
-<!-- FOOTER & CONNECT -->
-<!-- CONTACT & BADGES -->
+<!-- FOOTER & CONNECT --><!-- CONTACT & BADGES -->
 <div align="center">
   <a href="https://www.linkedin.com/in/shabbir-ali-cloud-infra" target="_blank">
     <img src="https://img.shields.io/badge/🔗%20LinkedIn-0E75B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -137,13 +135,14 @@
     <img src="https://img.shields.io/badge/🔗%20WhatsApp-0E75B6?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-0E75B6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=sshabbir-505&token=reset2026&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sshabbir-505&token=v2_reset_2026&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <div align="center" style="margin-top: 8px;">
   <img src="https://img.shields.io/badge/%23OPEN%20TO%20WORK-0E75B6?style=for-the-badge&logo=Workplace&logoColor=white" alt="Open to Work"/>
   <img src="https://img.shields.io/badge/Notice%20Period-2%20Months-0E75B6?style=for-the-badge&logo=clockify&logoColor=white" alt="Notice Period"/>
 </div>
+
 
 <p align="center" style="margin-top: 15px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:38bdf8,100:0e75b6&height=120&section=footer&animation=fadeIn" width="100%"/>
